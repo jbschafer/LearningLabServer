@@ -1,0 +1,35 @@
+
+======Activity : Keeping Score ======
+**Ninja Instructions** | [[lev4:act_score_m|Mentor Notes]]
+
+=====Introduction=====
+Lots of the games you have looked at have had good interaction, but you want to be able to keep score so that you can brag to your friends at how awesome you are at playing this game.  This activity adds in score keeping.
+
+Fish Chomp is a game where players try to catch as many fish as they can by guiding a sprite with the mouse.  in this activity, you will remix Fish Chomp by adding a score with variables.
+
+=====Duration =====
+30-45 minutes
+
+=====Instructions=====
+  - Begin by remixing the [[https://scratch.mit.edu/projects/56809550/|Fish Chomp Starter game]]
+  - Take a few minutes to explore the starter code and how the big fish is controlled by the user.
+  - Click on the "Make a Variable" button in the Data category \\ {{..:makeVariable.png}} \\ \\to create and name a variable for score. \\ {..:score.png}}
+  - Notice that after you do this there are a series of new code blocks available under the {{..:dataSubMenu.png}} menu.  \\ {{..:variableFeatures.png}} \\ 
+  - Experiment with your new variable blocks to incorporate score into your project. \\ {{..:fishChompScoreCode.png}} \\ 
+  - If you are having trouble with this look at some other games on the scratch website to see how they incorporate score and use these same blocks.
+
+
+=====Things to think about when you are done=====
+
+  * How would you explain variables to someone else?
+  * What are variable good for?
+  * Challenge yourself to do more.  How can you use score to add difficulty to your game design?
+  * Find a game you are inspired by and remix it!
+
+=====Sharing your project in the studio=====
+The studio for this activity is located at:
+
+  * [[https://scratch.mit.edu/studios/1126656/|https://scratch.mit.edu/studios/1126656/]]
+
+=====Credits=====
+This project is based on materials from the the [[http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf|Creative Computing curriculum]] by Brennan, Balch, and Chung.

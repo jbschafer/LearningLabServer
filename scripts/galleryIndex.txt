@@ -1,0 +1,30 @@
+884064|CV CoderDojo - Scratch Surprise|lev0:act_scratchsurprise_s
+887578|CV CoderDojo - Step-by-Step|lev0:act_stepbystep_s
+888046|CV CoderDojo - Twelve Blocks|lev0:act_twelveblocks_s
+878068|CV CoderDojo - Initial Assignment|lev1:act_initials_s
+905190|CV CoderDojo - Getting in Shape|lev1:act_shapes_s
+905196|CV CoderDojo - Debug It #1|lev1:act_debugitone_s
+905604|CV CoderDojo - Build a Band|lev1:act_buildaband_s
+905796|CV CoderDojo - Orange Square, Purple Circle|lev1:act_ospc_s
+905894|CV CoderDojo - It's Alive|lev1:act_itsalive_s
+906382|CV CoderDojo - Debug It #2|lev1:act_debugittwo_s
+905380|CV CoderDojo - About Me|lev1:act_aboutme_s
+906422|CV CoderDojo - Music Video|lev1:act_musicvideo_s
+909748|CV CoderDojo - Crazy Scenes|lev2:act_crazyscene_s
+909878|CV CoderDojo - Debug It #3|lev2:act_debugitthree_s
+909958|CV CoderDojo - Harry Potter Remix|lev2:act_hpremix_s
+910002|CV CoderDojo - Remixing other stories|lev2:act_otherremix_s
+955912|CV CoderDojo - Nursery Rhymes|lev2:act_nurseryrhyme_s
+955952|CV CoderDojo - Scene It|lev2:act_sceneit_s
+1021482|CV CoderDojo - Your Turn #1|lev3:act_yourturn1_s
+1021696|CV CoderDojo - Your Turn #2|lev3:act_yourturn2_s
+1021786|CV CoderDojo - Mad Libs |lev3:act_madlibs_s
+1021840|CV CoderDojo - Choose Your Own Adventure|lev3:act_cyoa_s
+1022058|CV CoderDojo - Build Your Own Maze Game|lev4:act_maze_s
+1022288|CV CoderDojo - Build Your Own Pong Game|lev4:act_pong_s
+1024270|CV CoderDojo - Build Your Own Scroller Game|lev4:act_scrolling_s
+1126656|CV CoderDojo - Keeping Score|lev4:act_score_s
+1126762|CV CoderDojo - Extensions|lev4:act_extensions_s
+1126790|CV CoderDojo - Interaction Puzzles|lev4:act_interactions_s
+1126870|CV CoderDojo - Debug it #4|lev4:act_debugitfour_s
+1126916|CV CoderDojo - End of Level Games|lev4:act_dreamgame_s

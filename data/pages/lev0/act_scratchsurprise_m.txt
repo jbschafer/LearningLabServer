@@ -1,0 +1,18 @@
+
+======Activity : Scratch Surprise======
+[[lev0:Act_ScratchSurprise_s|Ninja Instructions]]  |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * allowing students to explore the Scratch interface
+  * allowing students to be creative without the need to conform to a specific outcome
+
+
+
+=====Things to watch for=====
+The end outcome for this activity is very open. However, it is probably worth keeping students focused by keeping them somewhat constrained. On one hand, we want the students to have lots of fun and explore Scratch. But on the other hand, we want them to actually work towards the simple goal of making a program where the cat does something simple but surprising. Try to keep students focused on the task rather than getting sucked in by the ability for Scratch to make funny sounds (while that can be part of this task, it shouldn't occupy more than 10 minutes of exploration before it has become a time sink).
+
+
+
+

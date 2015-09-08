@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/feed.php">
+        <title>Cedar Valley lev0</title>
+        <description></description>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <image rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico" />
+       <dc:date>2015-05-24T20:08:21-05:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_exploringscratch_m&amp;rev=1425660045&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_exploringscratch_s&amp;rev=1425660462&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_scratchsurprise_m&amp;rev=1425661606&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_scratchsurprise_s&amp;rev=1425660609&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_stepbystep_m&amp;rev=1425661880&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_stepbystep_s&amp;rev=1425661853&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_twelveblocks_m&amp;rev=1425660046&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_twelveblocks_s&amp;rev=1425661953&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:tut_scratchintro&amp;rev=1425660164&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:tut_sharinginastudio&amp;rev=1425661508&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico">
+        <title>Cedar Valley</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <url>http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_exploringscratch_m&amp;rev=1425660045&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T10:40:45-05:00</dc:date>
+        <title>lev0:act_exploringscratch_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_exploringscratch_m&amp;rev=1425660045&amp;do=diff</link>
+        <description>Activity : Exploring Scratch
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  introducing students to the drag-and-drop nature of programming in Scratch
+	*  having students change the default parameters/values in programming blocks</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_exploringscratch_s&amp;rev=1425660462&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T10:47:42-05:00</dc:date>
+        <title>lev0:act_exploringscratch_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_exploringscratch_s&amp;rev=1425660462&amp;do=diff</link>
+        <description>Activity : Exploring Scratch
+
+Ninja Instructions |  Mentor Notes
+
+Introduction
+
+This activity is intended to be one of the first activities you complete when you are new to Scratch. It is meant as a simple way for you explore a little bit about working with Scratch by dragging out and connecting the programming blocks. 
+By the time you are done you will have learned  how to connect blocks to write a simple program.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_scratchsurprise_m&amp;rev=1425661606&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:06:46-05:00</dc:date>
+        <title>lev0:act_scratchsurprise_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_scratchsurprise_m&amp;rev=1425661606&amp;do=diff</link>
+        <description>Activity : Scratch Surprise
+
+Ninja Instructions  |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  allowing students to explore the Scratch interface
+	*  allowing students to be creative without the need to conform to a specific outcome
+
+Things to watch for</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_scratchsurprise_s&amp;rev=1425660609&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T10:50:09-05:00</dc:date>
+        <title>lev0:act_scratchsurprise_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_scratchsurprise_s&amp;rev=1425660609&amp;do=diff</link>
+        <description>Activity : Scratch Surprise
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+This activity is intended to be one of the first activities you complete when you are new to Scratch. It is meant as a fun way for you explore a little bit about working with Scratch by dragging out and connecting the programming blocks. You will have a lot of freedom to explore the things YOU want to explore.  Don't worry if you don't understand everything that you do, but do your best to try and figure it out. 
+By th…</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_stepbystep_m&amp;rev=1425661880&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:11:20-05:00</dc:date>
+        <title>lev0:act_stepbystep_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_stepbystep_m&amp;rev=1425661880&amp;do=diff</link>
+        <description>Activity : Step-by-Step
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity is to have the ninjas create  a simple program while giving them an opportunity to see:
+
+	*  movement
+	*  sound
+	*  repetition
+	*  speaking
+	*  colors
+	*  key press events</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_stepbystep_s&amp;rev=1425661853&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:10:53-05:00</dc:date>
+        <title>lev0:act_stepbystep_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_stepbystep_s&amp;rev=1425661853&amp;do=diff</link>
+        <description>Activity : Step-By-Step
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+Now that you know a little bit about how to get started with Scratch it is time to learn more about the different things you can do with it. In this activity you will work, step-by-step, through</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_twelveblocks_m&amp;rev=1425660046&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T10:40:46-05:00</dc:date>
+        <title>lev0:act_twelveblocks_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_twelveblocks_m&amp;rev=1425660046&amp;do=diff</link>
+        <description>Activity : Twelve Blocks
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+While completing this activity students will:
+
+	*  create a project with the constraint of using only 12 blocks
+
+This causes students to think about the fact that even 12 simple commands can generate a lot of cool outcomes.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_twelveblocks_s&amp;rev=1425661953&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:12:33-05:00</dc:date>
+        <title>lev0:act_twelveblocks_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:act_twelveblocks_s&amp;rev=1425661953&amp;do=diff</link>
+        <description>Activity : Twelve Blocks
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+What can you create using only 12 Scratch blocks? While Scratch can do a lot of things, some languages are fairly small. Yet even small language will let you do a lot of cool things. In this activity you will learn how to think creatively when you only have a small language. 
+By the time you will create a program that uses only 12 Scratch blocks - although you can use each as many times as you like. See how creative you c…</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:tut_scratchintro&amp;rev=1425660164&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T10:42:44-05:00</dc:date>
+        <title>lev0:tut_scratchintro</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:tut_scratchintro&amp;rev=1425660164&amp;do=diff</link>
+        <description>Introducing Scratch and Registering for an Account
+
+Most participants in the Cedar Valley Iowa Coder Dojo will use Scratch as their first programming language. 
+
+What is Scratch?
+
+Scratch is a free, online, graphical programming language developed and maintained by the Lifelong Kindergarden Group at MIT. It is a language that makes it easy to create interactive art, stories, simulations, and games</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:tut_sharinginastudio&amp;rev=1425661508&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:05:08-05:00</dc:date>
+        <title>lev0:tut_sharinginastudio</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev0:tut_sharinginastudio&amp;rev=1425661508&amp;do=diff</link>
+        <description>Tutorial : Sharing your project in a studio
+
+This short tutorial will show you how to add your projects to a studio. NOTE : In order to use this tutorial you will need to know the URL of the studio you are going to post into.
+
+	*  Go to the project that you would like to share in the studio.</description>
+    </item>
+</rdf:RDF>

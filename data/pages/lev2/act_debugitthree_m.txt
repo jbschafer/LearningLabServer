@@ -1,0 +1,30 @@
+
+======Activity : Debug It #3======
+[[lev2:Act_DebugItThree_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * investigate the problem and find a solution to five debugging challenges
+  * explore a range of concepts (including events and parallelism) through the practices of testing and debugging
+  * develop a list of strategies for debugging projects
+
+
+
+=====Things to watch for=====
+
+  * Being able to read others' code is a valuable skill and is critical for being able to engage in the practices of reusing and remixing.
+  * Students can explain their revisions by right-clicking on Scratch blocks to insert code comments.
+
+
+=====What to look for when reviewing their work=====
+
+  * Were students able to solve all five bugs? If not, how might we clarify the concepts expressed in the unsolved programs?
+  * What different testing and debugging strategies did the student employ?
+
+
+
+
+
+
+

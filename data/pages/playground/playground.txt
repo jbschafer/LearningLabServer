@@ -1,0 +1,22 @@
+====== PlayGround ======
+
+
+This is a hidden page designed to let users of the dojo have a page to edit for testing purposes.
+
+The following people have visited this page and attempted to edit it:
+  * Ben Schafer
+  * CVCoderDojo
+  * John B
+
+
+
+This is a test:
+  - [[..:resources|link back to the resources page]]
+  - [[:conduct|code of conduct]]
+
+
+This is a table test
+
+|  ^ Heading 1 ^ Heading 2 ^ [[..:resources|Heading3]] ^
+^ User 1 | | [[..:resources|{{:playground:exist_app.png|}}]] | |
+^ User 2 | | | [[..:resources|Heading3]] |

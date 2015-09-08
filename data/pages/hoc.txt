@@ -1,0 +1,22 @@
+====== Hour of Code Introductions ======
+
+
+<WRAP group>
+<WRAP half column>
+Completely new to programming? If you have never attempted to program before we recommend that you explore the fundamentals of programming using one of these "Hour of Code" projects from Code.org.
+
+</WRAP>
+
+<WRAP half column>
+[[http://code.org|{{:cologo.png?100|}}]]
+</WRAP>
+</WRAP>
+
+
+
+
+
+
+  * [[http://studio.code.org/s/frozen/stage/1/puzzle/1|Hour of Code with Frozen's Anna and Elsa]]
+  * [[http://studio.code.org/hoc/1|Hour of Code featuring Angry Birds and Plants vs. Zombies]]
+  * [[http://studio.code.org/flappy/1|Hour of Code featuring Flappy Bird]]

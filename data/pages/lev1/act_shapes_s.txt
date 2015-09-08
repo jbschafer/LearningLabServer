@@ -1,0 +1,60 @@
+
+======Activity : Getting in Shape======
+**Ninja Instructions** | [[lev1:Act_Shapes_m|Mentor Notes]]
+
+=====Introduction=====
+Let's see if you can use the Pen feature of Scratch to program the computer to draw out several polygons. 
+While this activity can be completed using coordinate based movement, we would like you explore direction based movement.
+
+
+=====Duration =====
+20-40 minutes
+
+=====Requirements=====
+
+The base requirements for this project are that you write a program that:
+      * Runs when the green flag icon is pressed  {{..:greenflagBlock.PNG}}
+      * Begins by "erasing" the screen.
+      * Uses blocks from the {{..:penSubMenu.PNG}}menu to raise and lower the pen as the program runs.
+      * Moves the sprite around on the screen using the move and direction blocks from the  {{..:motionSubMenu.PNG}} menu
+      * The direction based movement blocks include {{..:move100Steps.PNG}} and {{..:turnBlock.PNG}}  
+      * Draws out the following polygons on the screen when it runs:
+          * Square
+          * Triangle
+          * Rectangle
+          * Hexagon (6 sided polygon) or Octagon (8 sided polygon)
+          * A "Circle"      
+        
+
+=====Suggestions=====
+
+  * You may certainly prepare your program with the base requirements listed above. However, you should feel free to explore issues of color and pen size to create a more interesting project.
+  * While your project only needs to draw the figures listed above, you can feel free to put them together into an interesting drawing like a simple house!
+  * We would prefer that you use directions for drawing the shapes, but you can use the coordinate motion blocks to move the cat between the different shapes.
+  * While it isn't required for the first couple of polygons, drawing a circle will be much easier if you use a repeat block:{{..:repeatBlock.PNG}} (or try {{..:repeat360.PNG}})
+
+
+=====Things to think about when you are done=====
+
+   * What did you learn about the direction system of the stage in Scratch?
+      * What direction is straight up?
+      * What direction is straight left?
+      * What direction is straight right?
+      * What direction is straight down?
+  * How did using the repeat block make it easier to write the code for your circle?
+  * What did you learn about using the pen?
+  * What other programs could you write that use the pen to do something fun and creative?
+
+
+=====Sharing your project in the studio=====
+If you need to review, [[lev0:Tut_SharingInAStudio|read this page for instructions on how to share your project in a studio.]]
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/905190/|http://scratch.mit.edu/studios/905190/]]
+
+
+=====Credits=====
+This project is based on materials originally created by Ben Schafer at UNI.
+
+
+

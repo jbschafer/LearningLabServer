@@ -1,0 +1,35 @@
+
+======Activity : Knock Knock Joke, version 2 ======
+**Ninja Instructions** | [[lev2:Act_KnockKnockV2_m|Mentor Notes]]
+
+=====Introduction=====
+This activity will make more sense if you first complete [[lev2:Act_KnockKnockV1_s|Knock Knock Joke, version 1]]
+When put together with Knock Knock Joke, version 1 this pair of activities will explore different ways to program sprites to have conversations. You will experiment with timing and explore using broadcasts while making changes to a SILLY knock knock joke.
+
+=====Duration =====
+15-30 minutes
+
+=====Instructions=====
+
+  - Locate Knock Knock Joke, Version 2 on the Scratch website: [[http://scratch.mit.edu/projects/46303972/|http://scratch.mit.edu/projects/46303972/]]
+  - Press the green flag icon and watch the joke/story. You should notice that the joke appears on the screen EXACTLY the same as the one in [[lev2:Act_KnockKnockV1_s|Version 1]]
+  - Look inside the project and review the code for Lisa, John, and the Stage. You should notice that the code looks very different here even though the outcome is the same.
+  - Figure out how this code uses events through "broadcast" and "to coordinate all of the actions.
+  - Press the button to remix this project.
+  - Modify the program so that the sprites switch to laughing during the end of the joke. Again, don't forget to adjust the code so they go back to their "normal" looks at the beginning of the program (when the green flag is pressed).      
+  - Modify the code so  that John **thinks** about the punchline for a few extra seconds before he says "Who's there?"
+  - Make any additional changes you would like to make to the telling of this joke.
+
+
+=====Things to think about when you are done=====
+
+  * How would you describe broadcast to a brand new dojo member?
+  * In what situations did you need to modify the broadcasts for this project? 
+  * In what situations would you use broadcasting in a project?
+
+
+=====Credits=====
+This project is based on materials from Dr. Ben Schafer at the University of Northern Iowa
+
+
+

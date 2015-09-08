@@ -1,0 +1,31 @@
+====== CV CoderDojo Ninja Projects Level 0 ======
+Click on a link below to view projects from another level.
+    *  [[projects_lev0|Level 0]]
+    *  [[projects_lev1|Level 1]]
+    *  [[projects_lev2|Level 2]]
+    *  [[projects_lev3|Level 3]]
+    *  [[projects_lev4|Level 4]]
+
+
+Clicking on an icon in the table will take you to that Ninja's project.
+    
+
+|  ^Scratch Surprise  [[lev0:act_scratchsurprise_s|Instructions]]  [[http://scratch.mit.edu/studios/884064/|ProjectGallery]] ^Step-by-Step  [[lev0:act_stepbystep_s|Instructions]]  [[http://scratch.mit.edu/studios/887578/|ProjectGallery]] ^Twelve Blocks  [[lev0:act_twelveblocks_s|Instructions]]  [[http://scratch.mit.edu/studios/888046/|ProjectGallery]] ^
+^  [[http://scratch.mit.edu/users/CNS2004/|CNS2004]] | [[http://scratch.mit.edu/projects/55738988/|{{..:exist_app.png|}}]]  | [[http://scratch.mit.edu/projects/55741764/|{{..:exist_app.png|}}]]  | [[http://scratch.mit.edu/projects/55744306/|{{..:exist_app.png|}}]]  | 
+^  [[http://scratch.mit.edu/users/codecraftgo/|codecraftgo]] | [[http://scratch.mit.edu/projects/53677904/|{{..:exist_app.png|}}]]  |  |  | 
+^  [[http://scratch.mit.edu/users/Coder_Hero_6/|Coder_Hero_6]] | [[http://scratch.mit.edu/projects/48981042/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/50121618/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/51256074/|{{..:exist_app.png|}}]]  | [[http://scratch.mit.edu/projects/48977262/|{{..:exist_app.png|}}]]  | [[http://scratch.mit.edu/projects/48981042/|{{..:exist_app.png|}}]]  | 
+^  [[http://scratch.mit.edu/users/eliana10/|eliana10]] | [[http://scratch.mit.edu/projects/48995670/|{{..:exist_app.png|}}]]  |  |  | 
+^  [[http://scratch.mit.edu/users/emilyturtle/|emilyturtle]] |  |  | [[http://scratch.mit.edu/projects/51257304/|{{..:exist_app.png|}}]]  | 
+^  [[http://scratch.mit.edu/users/et_ninjas/|et_ninjas]] |  | [[http://scratch.mit.edu/projects/60124238/|{{..:exist_app.png|}}]]  | [[http://scratch.mit.edu/projects/51256430/|{{..:exist_app.png|}}]]  | 
+^  [[http://scratch.mit.edu/users/franceslincoln/|franceslincoln]] |  |  |  | 
+^  [[http://scratch.mit.edu/users/frosting3/|frosting3]] | [[http://scratch.mit.edu/projects/55741092/|{{..:exist_app.png|}}]]  |  |  | 
+^  [[http://scratch.mit.edu/users/happypanther42/|happypanther42]] | [[http://scratch.mit.edu/projects/51260558/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/53683874/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/48979066/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/53674592/|{{..:exist_app.png|}}]]  plus more! |  |  | 
+^  [[http://scratch.mit.edu/users/horsepaige/|horsepaige]] |  | [[http://scratch.mit.edu/projects/45848214/|{{..:exist_app.png|}}]]  | [[http://scratch.mit.edu/projects/48980108/|{{..:exist_app.png|}}]]  | 
+^  [[http://scratch.mit.edu/users/JamesS2007/|JamesS2007]] | [[http://scratch.mit.edu/projects/64998678/|{{..:exist_unapp.png|}}]] [[http://scratch.mit.edu/projects/64995202/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/62656306/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/62658906/|{{..:exist_app.png|}}]]  plus more! | [[http://scratch.mit.edu/projects/65510152/|{{..:exist_app.png|}}]]  | [[http://scratch.mit.edu/projects/65898468/|{{..:exist_app.png|}}]]  | 
+^  [[http://scratch.mit.edu/users/julian10123/|julian10123]] | [[http://scratch.mit.edu/projects/53676756/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/51249070/|{{..:exist_app.png|}}]]  | [[http://scratch.mit.edu/projects/53655356/|{{..:exist_app.png|}}]]  |  | 
+^  [[http://scratch.mit.edu/users/kd123cool/|kd123cool]] | [[http://scratch.mit.edu/projects/51332862/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/51291394/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/51359170/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/51554172/|{{..:exist_app.png|}}]]  plus more! | [[http://scratch.mit.edu/projects/55739892/|{{..:exist_app.png|}}]]  | [[http://scratch.mit.edu/projects/57709986/|{{..:exist_app.png|}}]]  | 
+^  [[http://scratch.mit.edu/users/kickaj07/|kickaj07]] | [[http://scratch.mit.edu/projects/53680652/|{{..:exist_app.png|}}]]  |  |  | 
+^  [[http://scratch.mit.edu/users/OWENsnoopy123/|OWENsnoopy123]] | [[http://scratch.mit.edu/projects/51256414/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/55747962/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/55747390/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/60128814/|{{..:exist_app.png|}}]]  plus more! | [[http://scratch.mit.edu/projects/60421572/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/62654532/|{{..:exist_app.png|}}]]  | [[http://scratch.mit.edu/projects/55747962/|{{..:exist_app.png|}}]]  | 
+^  [[http://scratch.mit.edu/users/packercade/|packercade]] | [[http://scratch.mit.edu/projects/42562636/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/42567976/|{{..:exist_app.png|}}]]  |  |  | 
+^  [[http://scratch.mit.edu/users/roryrogers/|roryrogers]] | [[http://scratch.mit.edu/projects/75456352/|{{..:new_unapp.png|}}]]  |  |  | 
+This table last updated:  2015-09-07 13:00:29

@@ -1,0 +1,30 @@
+
+======Activity : Orange Square, Purple Circle======
+[[lev1:Act_OSPC_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * allowing students to express their creativity by completing an arts-themed challenge
+  * gain more fluency with Looks blocks and the paint editor
+
+
+
+=====Things to watch for=====
+
+  * This will be a project students may be tempted to pound out in just a few minutes and "submit for credit." Try to encourage exploration and creativity.
+  * If students have questions, remind them that they can open the Tips Window to learn more about specific blocks or different parts of the Scratch editor.
+  * Scratch supports both bitmap and vector graphics. This is both a good thing and a confusing thing as different styles support different features. If a student is struggling with a graphic, work with them to explore bitmap vs. vector graphics and see if one makes more sense than the other.
+
+
+=====What to look for when reviewing their work=====
+
+  * Do projects include an orange square and a purple circle?
+  * Ask students to explain some of the things they tried but didn't use in their final project.
+
+
+
+
+
+
+

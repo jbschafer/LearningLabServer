@@ -1,0 +1,40 @@
+
+======Activity : Using Numbers as Data ======
+**Ninja Instructions** | [[lev3:act_numberdata_m|Mentor Notes]]
+
+=====Introduction=====
+In the last activity you used the Ask block to allow the user to enter some information you used in your story.  But all of the data that we worked with was textual data.  In this activity we are going to look at some fun ways to use number data.  
+
+
+=====Duration =====
+30-45 minutes
+
+=====Instructions=====
+
+====Try it out - Getting Started====
+  - Open up a brand new Scratch program.  Give your sprite the following code.\\ \\ {{..:shapeLoopStarter.png}}\\ 
+  - What do you think this program will do when you run this code?
+  - Try it.  Were you right?\\ \\ 
+  - Now let's look at how we can change this to allow the user to give us some input.  Create a variable called length.  Ask the user how long each side of the square should be and then set this variable to that answer.  Finally, use this variable for the length of each side of your square.
+  - Try to write this program on your own.  When you think you have it done, test it with numbers such as 100 or 150.  If you are having troubles you can [[lev3:lengthSolution|look here for one possible solution]].
+
+
+====Try it out - Other ways to use number data====
+
+  - Look at the following code.\\ \\ {{..:spiroOne.png}}
+  - What do you think this will do when you run it?  Try it and find out.  Were you right?\\ \\ \\ 
+  - Look at the following code.\\ \\ {{..:spiroTwo.png}} 
+  - What do you think this will do when you run this and provide input numbers like 3, 4, 6, or 8?  Try it and find out.  Were you right?  Hint, try a number like 360 and see what happens.
+
+
+
+=====Things to think about when you are done=====
+
+  * Look at some of the different ways that we used numbers.  How will this be helpful in other programs?
+  * What shape do you notice that most number pegs have?
+  * What shape do you notice that all yes/no question pegs have?
+
+
+
+=====Credits=====
+This project is based on materials from Dr. Ben Schafer at the University of Northern Iowa

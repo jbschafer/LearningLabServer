@@ -1,0 +1,49 @@
+
+======Activity : Initials======
+**Ninja Instructions** | [[lev1:Act_Initials_m|Mentor Notes]]
+
+=====Introduction=====
+Let's see if you can use the Pen feature of Scratch to program the computer to draw out your initials. For example, if I were to do my initials (JBS) I might end up with   something like the following:\\ {{..:initialOutcome.png}}
+
+While this activity can be completed using direction based movement, we would like you explore coordinate based movement.
+
+=====Duration =====
+20-40 minutes
+
+=====Requirements=====
+
+  * The base requirements for this project are that you write a program that:
+    
+      * Runs when the green flag icon is pressed  {{..:greenflagBlock.PNG}}
+      * Begins by "erasing" the screen.
+      * Uses blocks from the {{..:penSubMenu.PNG}}menu to raise and lower the pen as the program runs.
+      * Moves the sprite around on the screen using the coordinate based blocks in the {{..:motionSubMenu.PNG}} menu.  NOTE: We would suggest using coordinate based movement for this rather than direction based movement. That means, that you should use blocks such as {{..:moveToBlock.PNG}} and {{..:glideToBlock.PNG}}
+      *Ends the program with your initials on the screen.
+
+
+=====Suggestions=====
+
+  * You may certainly prepare your program with the base requirements listed above. However, you should feel free to explore issues of color and pen size to create a more interesting project.
+  * Don't forget about the tips menu that you should have explored in the [[lev0:Act_StepByStep_s|Step-by-Step Activity]]. You can explore this for assistance on using the pen.
+  * In reality this probably sounds easier than it actually   is. Before you start programming you might get out a piece of graph paper and plan out your program. Think about the coordinates of the   stage (-240 to +240 for width, -180 to +180 for height) and how/where the    letters that you are drawing would go on the stage. Think about the movement   from point to point and when you need to raise or lower the pen.
+
+
+=====Things to think about when you are done=====
+
+  * What did you learn about the coordinate system of the stage in Scratch?
+  * What did you learn about using the pen?
+  * What other programs could you write that use the pen to do something fun and creative?
+
+
+=====Sharing your project in the studio=====
+If you need to review, [[lev0:Tut_SharingInAStudio|read this page for instructions on how to share your project in a studio.]]
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/878068/|http://scratch.mit.edu/studios/878068/]]
+
+
+=====Credits=====
+This project is based on materials originally created by Ben Schafer at UNI.
+
+
+

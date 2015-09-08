@@ -1,0 +1,59 @@
+====== CVCoderDojo Code of Conduct ======
+
+
+The Cedar Valley CoderDojo is a volunteer run organization and operates on a "drop in" basis. As such, we do not have the capacity to manage signed consent forms. Therefore, attendance at any Cedar Valley CoderDojo events is dependent upon all parents, guardians, and attendees agreeing to the following Code of Conduct. Failure to live up to these conduct rules will result in a student being prohibited from participating in CoderDojo meetings/activities
+
+ 
+
+===== The #1 Rule =====
+
+**Be cool.**
+
+That phrase is short but it says a lot about our expectations. Students are expected to "Be cool" by treating each other with respect and participating in a friendly and helpful manner. We value the participation of each attendee of the CoderDojo community and want all attendees to have an enjoyable and fulfilling experience. All participants are expected to show respect and courtesy to other attendees throughout our events.
+
+ 
+
+===== The #2 Rule =====
+** Be ferocious. **
+
+Unlike school where there is a set curriculum and teachers are responsible for guiding your learning, a CoderDojo works on the philosophy of learning through doing and helping each other. If you want to make something happen than be ferocious in conducting research into what you need to know and learn how to do that. Ask mentors and other dojo participants for help. Be willing to help others when they need help. When things get a little challenging and you want to quit, BE FEROCIOUS and keep trying!
+
+ 
+
+===== More Rules of Etiquette =====
+
+By my participation in the Cedar Valley CoderDojo I pledge to:
+
+  * Be polite at all times.
+  * Help provide a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of event participants in any form.
+  * Use appropriate "school" language and images at all times. All communication should be appropriate for a professional audience including people of
+  * many different backgrounds. Sexual or violent language and imagery is not appropriate for any event.
+  * Don't use abusive, hurtful or gossip-type messages in person, code, or correspondence.
+  * Respect other student's privacy. In other words, don't reveal the name, home address, email address, or phone number of yourself or another student.
+  * Respect all security issues. Don't share passwords with other students.
+  * Respect the collaborative work of my mentors and peers. In other words, I will not delete the work of others unless I have their permission. Furthermore, I will give credit to others who have shared ideas and code that helped me in my projects.
+  * Immediately report any inappropriate, threatening, obscene, or harassing material to dojo mentors.
+  * I understand that programs created in Scratch are monitored by Scratch staff and as appropriate, by dojo mentors.
+  *  
+
+The Cedar Valley CoderDojo is not liable for any activities including communication or transactions that occur outside of our events.
+
+===== Emergency =====
+
+In the case of an emergency or the unlikely event of a serious illness/accident an ambulance/doctor may be called.
+
+===== Model Release =====
+
+CoderDojo uses photographs to record and promote its activities. Any person in attendance at our Dojo may appear in photographs that are used on the Coderdojo webpage(s) and in the Coderdojo Twitter feed or for general public relations purposes. By attending the Cedar Valley CoderDojo, you consent to being filmed/photographed and the release, publication, exhibition, or reproduction of the footage to be used for public relations, videos, inclusion on websites, or any other purpose by CV CoderDojo.
+
+You waive all rights you may have to any claims for payment or royalties in connection with any exhibition, televising, or other publication of these materials, regardless of the purpose or sponsoring of such exhibiting, broadcasting, or other publication.
+
+If you would like to not be included (or for your child to not be included) in any published materials, please speak to the filmmakers/photographers directly. You are under an obligation to ensure you (your child) is aware they are not to be photographed.
+
+ 
+
+===== Credits =====
+
+This document was crafted with language shared by the Williams Coder Dojo in San Jose, CA and CoderDojo Pavia in Pavia, Italy.
+
+ 

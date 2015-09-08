@@ -1,0 +1,28 @@
+
+======Activity : About Me======
+[[lev1:Act_AboutMe_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * show a familiarity with a wide range of Scratch blocks
+  * be able to create an open ended Scratch project that is an interactive digital representation of the student
+
+
+
+=====Things to watch for=====
+
+  * This is a mastery project so we want students to show a wide variety of learning
+
+
+=====What to look for when reviewing their work=====
+
+  * Do projects make creative use of sprites, costumes, looks, backdrops, or sound?
+  * Are projects interactive? Can users interact whit various elements within the project?
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1428957992;s:8:"modified";i:1441562428;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:35:"CV CoderDojo Ninja Projects Level 4";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:35:"cv_coderdojo_ninja_projects_level_4";s:5:"title";s:35:"CV CoderDojo Ninja Projects Level 4";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:320:"CV CoderDojo Ninja Projects Level 4
+
+Click on a link below to view projects from another level.
+
+	*   Level 0
+		*   Level 1
+		*   Level 2
+		*   Level 3
+		*   Level 4
+
+Clicking on an icon in the table will take you to that Ninja's project.
+  Build Your Own Maze Game  Instructions  ProjectGallery Build Your Own Pong Game";}s:8:"relation";a:2:{s:10:"references";a:12:{s:22:"progress:projects_lev0";b:1;s:22:"progress:projects_lev1";b:1;s:22:"progress:projects_lev2";b:1;s:22:"progress:projects_lev3";b:1;s:22:"progress:projects_lev4";b:1;s:15:"lev4:act_maze_s";b:1;s:15:"lev4:act_pong_s";b:1;s:20:"lev4:act_scrolling_s";b:1;s:16:"lev4:act_score_s";b:1;s:21:"lev4:act_extensions_s";b:1;s:23:"lev4:act_interactions_s";b:1;s:20:"lev4:act_dreamgame_s";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1428957992;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

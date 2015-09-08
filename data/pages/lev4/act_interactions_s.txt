@@ -1,0 +1,41 @@
+
+======Activity : Interaction Puzzles ======
+**Ninja Instructions** | [[lev4:act_interactions_m|Mentor Notes]]
+
+=====Introduction=====
+What differentiates a Scratch Project from a still image or a video
+
+Tackle these nine puzzles that engage some of the more advanced concepts in Scratcdh realted to interactivity.  Each of these challenges has several possible solutions.
+
+
+=====Duration =====
+30-45 minutes each
+
+=====Instructions=====
+Create a scratch program for each of the nine interaction puzzles.  When you get a solution take some time to look at OTHER solutions in the studio so that you can see some of the alternatives.
+
+Puzzles:
+     - Puzzle 1:  Whenever you press the B key, the sprite gets a little bigger.  Whenever you press the S key, the sprite gets a little smaller.
+     - Puzzle 2:  Whenever the sprite hears a loud sound it changes color.
+     - Puzzle 3:  The player can move the sprite around using keys or the mouse.  Whenever the sprite is in the top 25% of the screen it says "I like it up here"
+     - Puzzle 4:  When the sprite touches something blue, it plays a high note.  When the sprite touches something red, it plays a low note.
+     - Puzzle 5:  Whenever two sprites collide one of them says "Excuse me"
+     - Puzzle 6:  Whenever the cat spite gets near the dog sprite the dog turns and runs away from the cat.
+     - Puzzle 7:  Whenever you click on the background a flower appears at that spot.
+     - Puzzle 8:  Whenever you click on a sprite, all other sprites do a dance.
+     - Puzzle 9:  Whenever you move the mouse-pointer, the sprite follows but doesn't touch the mouse-pointer.
+
+
+=====Things to think about when you are done=====
+
+  * Which puzzles did you work on?
+  * What was your strategy for solving the puzzles?
+  * Which puzzles helped you think about your game project?
+
+=====Sharing your project in the studio=====
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/1126790|http://scratch.mit.edu/studios/1126790]]
+
+=====Credits=====
+This project is based on materials from the the [[http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf|Creative Computing curriculum]] by Brennan, Balch, and Chung.

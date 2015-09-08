@@ -1,0 +1,24 @@
+
+======Activity : Crazy Scene======
+[[lev2:Act_CrazyScene_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * being able to create a project that experiments with changing backdrops, like a story with multiple scenes or a slideshow.
+  * gain more familiarity with the computational concepts of events and parallelism and the practice of experimenting and iterating
+
+
+=====Things to watch for=====
+If students are having trouble figuring out how to switch backdrops, encourage them to tinker with blocks under the looks category, especially the switch backdrop to, switch backdrop to and wait, and next backdrop blocks.
+
+=====What to look for when reviewing their work=====
+
+  * Do projects successfully coordinate multiple scenes using changing backdrops.
+
+
+
+
+
+
+

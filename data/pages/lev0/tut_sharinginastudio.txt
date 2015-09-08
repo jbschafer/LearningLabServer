@@ -1,0 +1,18 @@
+
+======Tutorial : Sharing your project in a studio ======
+
+This short tutorial will show you how to add your projects to a studio. NOTE : In order to use this tutorial you will need to know the URL of the studio you are going to post into.
+
+
+  - Go to the project that you would like to share in the studio.
+  - Click on the "Share" button at the top of the page above the scripting area.\\ {{..:share.png}}
+  - Once you do this you will be taken to a screen where you can add any instructions or notes that you want to include with your project.\\ {{..:addDetails.png}}
+  - Now go to the Scratch studio that you are going to post into.  For example, if this is the first time you have posted you might be posting to the "Scratch Surprise" studio which is located at [[http://scratch.mit.edu/studios/884064/projects/|http://scratch.mit.edu/studios/884064/projects/]].
+  - Click on the "Add Projects" button at the top of the studio.\\ {{..:addProjects.png}}
+  - A list of all of your public/shared projects will appear at the bottom of the screen. Select your project from this list.\\ {{..:addProjectsList.PNG}}
+  - Your project should automatically be added to the studio!
+
+
+
+
+

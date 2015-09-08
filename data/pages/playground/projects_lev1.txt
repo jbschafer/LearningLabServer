@@ -1,0 +1,25 @@
+====== CV CoderDojo Ninja Projects Level 1 ======
+Click on a link below to view projects from another level.
+    *  [[projects_lev0.txt|Level 0]]
+    *  [[projects_lev1.txt|Level 1]]
+    *  [[projects_lev2.txt|Level 2]]
+
+
+Clicking on an icon in the table will take you to that Ninja's project.
+    
+
+|  ^Initial Assignment  [[lev1:act_initials_s|Instructions]]  [[http://scratch.mit.edu/studios/878068/|ProjectGallery]] ^Getting in Shape  [[lev1:act_shapes_s|Instructions]]  [[http://scratch.mit.edu/studios/905190/|ProjectGallery]] ^Build a Band  [[lev1:act_buildaband_s|Instructions]]  [[http://scratch.mit.edu/studios/905604/|ProjectGallery]] ^Orange Square, Purple Circle  [[lev1:act_ospc_s|Instructions]]  [[http://scratch.mit.edu/studios/905796/|ProjectGallery]] ^It's Alive  [[lev1:act_itsalive_s|Instructions]]  [[http://scratch.mit.edu/studios/905894/|ProjectGallery]] ^About Me  [[lev1:act_aboutme_s|Instructions]]  [[http://scratch.mit.edu/studios/905380/|ProjectGallery]] ^Music Video  [[lev1:act_musicvideo_s|Instructions]]  [[http://scratch.mit.edu/studios/906422/|ProjectGallery]] ^
+^  [[http://scratch.mit.edu/users/CNS2004/|CNS2004]]| [[http://scratch.mit.edu/projects/55930952/|{{new_app.png|}}]]{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/Coder_Hero_6/|Coder_Hero_6]]| [[http://scratch.mit.edu/projects/51256074/|{{new_app.png|}}]]| [[http://scratch.mit.edu/projects/55738782/|{{new_app.png|}}]]| [[http://scratch.mit.edu/projects/55745028/|{{new_app.png|}}]]{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/eliana10/|eliana10]]{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/emilyturtle/|emilyturtle]]| [[http://scratch.mit.edu/projects/43052852/|{{new_app.png|}}]]{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/franceslincoln/|franceslincoln]]| [[http://scratch.mit.edu/projects/48976530/|{{new_app.png|}}]]{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/frosting3/|frosting3]]{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/happypanther42/|happypanther42]]{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/horsepaige/|horsepaige]]{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/julian10123/|julian10123]]{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/kd123cool/|kd123cool]]| [[http://scratch.mit.edu/projects/55740864/|{{new_app.png|}}]]{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/kickaj07/|kickaj07]]{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/OWENsnoopy123/|OWENsnoopy123]]{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/packercade/|packercade]]{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}}{{blank.png|}} | 
+This table last updated:  2015-04-11 10:49:20

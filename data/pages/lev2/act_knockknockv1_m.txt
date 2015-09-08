@@ -1,0 +1,24 @@
+
+======Activity : Knock Knock Joke, Version 1======
+[[lev2:Act_KnockKnockV1_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * exploring the first of two different strategies for synchronizing interactions between sprites - timing.
+  * developing a greater familiarity with the computational concept of events and parallelism
+  * practice reusing and remixing
+
+
+
+=====What to look for when reviewing their work=====
+
+  * Did the student modify the existing code as instructed?
+  * Can students explain how to adjust a program that uses timing?
+
+
+
+
+
+
+

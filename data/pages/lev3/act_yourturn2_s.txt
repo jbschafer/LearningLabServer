@@ -1,0 +1,41 @@
+
+======Activity : Your Turn, #2 ======
+**Ninja Instructions** | [[lev3:act_yourturn2_m|Mentor Notes]]
+
+=====Introduction=====
+In the last activity we looked at how you can use numerical data.  In this activity we want you to build a program like the ones we created in the [[lev3:act_numberdata_s|last activity]] but you have the freedom to explore it any way you want.
+
+=====Duration =====
+15-30 minutes
+
+
+=====Instructions=====
+
+Starting from a clean program or from one of the programs you created in the [[lev3:act_numberdata_s|last activity]] we would like you to make a program that uses at least three different number variables - either provided by the user or calculated by the program - to do something interesting. 
+
+We would like for these three numbers (MINIMUM) to be used, one each in blocks from the following menus:
+  * Where your sprite is located - notice that most of the motion blocks have round openings which mean that you can drop numerical variable pegs into these openings.
+  * The color of the ink or the size of the pen - notice that many of the pen blocks have round openings which mean that you can drop numerical variable pegs into these openings.
+  * There are even some numerical values you can use under the sound menu!
+
+We also strongly encourage you to explore some of the mathematical operators under the Operators menu {{..:operatorsSubMenu.png}}
+
+You can do absolutely anything you want for this activity.  The whole point of this activity is to draw attention to the fact that LOTS of the blocks that you have been working with take numbers as part of the way they work and you can replace those numbers with numerical variables.  
+
+Explore.  Have fun!
+
+
+=====Things to think about when you are done=====
+
+  * How many different blocks use numbers to change what they do or how they work?
+  * What other ways could you use numerical data in some of your programs?
+
+
+=====Sharing your project in the studio=====
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/1021696|http://scratch.mit.edu/studios/1021696]]
+
+
+=====Credits=====
+This project is based on materials from Dr. Ben Schafer at the University of Northern Iowa

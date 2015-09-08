@@ -1,0 +1,31 @@
+====== CV CoderDojo Ninja Projects Level 2 ======
+Click on a link below to view projects from another level.
+    *  [[projects_lev0|Level 0]]
+    *  [[projects_lev1|Level 1]]
+    *  [[projects_lev2|Level 2]]
+    *  [[projects_lev3|Level 3]]
+    *  [[projects_lev4|Level 4]]
+
+
+Clicking on an icon in the table will take you to that Ninja's project.
+    
+
+|  ^Crazy Scenes  [[lev2:act_crazyscene_s|Instructions]]  [[http://scratch.mit.edu/studios/909748/|ProjectGallery]] ^Harry Potter Remix  [[lev2:act_hpremix_s|Instructions]]  [[http://scratch.mit.edu/studios/909958/|ProjectGallery]] ^Remixing other stories  [[lev2:act_otherremix_s|Instructions]]  [[http://scratch.mit.edu/studios/910002/|ProjectGallery]] ^Nursery Rhymes  [[lev2:act_nurseryrhyme_s|Instructions]]  [[http://scratch.mit.edu/studios/955912/|ProjectGallery]] ^Scene It  [[lev2:act_sceneit_s|Instructions]]  [[http://scratch.mit.edu/studios/955952/|ProjectGallery]] ^
+^  [[http://scratch.mit.edu/users/CNS2004/|CNS2004]] |  |  |  |  |  | 
+^  [[http://scratch.mit.edu/users/codecraftgo/|codecraftgo]] |  |  |  |  |  | 
+^  [[http://scratch.mit.edu/users/Coder_Hero_6/|Coder_Hero_6]] |  |  |  |  |  | 
+^  [[http://scratch.mit.edu/users/eliana10/|eliana10]] |  |  |  |  |  | 
+^  [[http://scratch.mit.edu/users/emilyturtle/|emilyturtle]] |  |  |  |  |  | 
+^  [[http://scratch.mit.edu/users/et_ninjas/|et_ninjas]] |  |  |  |  |  | 
+^  [[http://scratch.mit.edu/users/franceslincoln/|franceslincoln]] |  |  |  |  |  | 
+^  [[http://scratch.mit.edu/users/frosting3/|frosting3]] |  |  |  |  |  | 
+^  [[http://scratch.mit.edu/users/happypanther42/|happypanther42]] |  |  |  |  |  | 
+^  [[http://scratch.mit.edu/users/horsepaige/|horsepaige]] |  |  |  |  |  | 
+^  [[http://scratch.mit.edu/users/JamesS2007/|JamesS2007]] | [[http://scratch.mit.edu/projects/66173992/|{{..:exist_unapp.png|}}]]  | [[http://scratch.mit.edu/projects/66179620/|{{..:exist_unapp.png|}}]]  | [[http://scratch.mit.edu/projects/66187980/|{{..:exist_unapp.png|}}]]  | [[http://scratch.mit.edu/projects/66579934/|{{..:exist_unapp.png|}}]]  | [[http://scratch.mit.edu/projects/66678722/|{{..:exist_unapp.png|}}]]  | 
+^  [[http://scratch.mit.edu/users/julian10123/|julian10123]] |  |  |  |  |  | 
+^  [[http://scratch.mit.edu/users/kd123cool/|kd123cool]] | [[http://scratch.mit.edu/projects/62652930/|{{..:exist_app.png|}}]]  | [[http://scratch.mit.edu/projects/62762906/|{{..:exist_app.png|}}]]  | [[http://scratch.mit.edu/projects/62984342/|{{..:exist_app.png|}}]] [[http://scratch.mit.edu/projects/68260476/|{{..:exist_unapp.png|}}]]  | [[http://scratch.mit.edu/projects/62985180/|{{..:exist_unapp.png|}}]]  | [[http://scratch.mit.edu/projects/68522926/|{{..:new_unapp.png|}}]]  | 
+^  [[http://scratch.mit.edu/users/kickaj07/|kickaj07]] |  |  |  |  |  | 
+^  [[http://scratch.mit.edu/users/OWENsnoopy123/|OWENsnoopy123]] |  |  |  |  |  | 
+^  [[http://scratch.mit.edu/users/packercade/|packercade]] |  |  |  |  |  | 
+^  [[http://scratch.mit.edu/users/roryrogers/|roryrogers]] |  |  |  |  |  | 
+This table last updated:  2015-09-07 13:00:29

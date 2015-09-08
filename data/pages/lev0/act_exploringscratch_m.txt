@@ -1,0 +1,32 @@
+
+======Activity : Exploring Scratch======
+[[lev0:Act_ExploringScratch_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * introducing students to the drag-and-drop nature of programming in Scratch
+  * having students change the default parameters/values in programming blocks
+  * introducing students to the green flag hat block
+  * enocuraging students to use the green flag icon to start/run a program
+
+
+
+=====Things to watch for=====
+
+  * As was noted above in the Purpose section, it is a significant goal that students learn that while they can test how blocks work and what they do by clicking directly on them. However, it is important that students learn that while this is acceptable for testing, all code intended to be run in programs should begin with a hat block (in this activity, the green flag hat block)
+  * Other than that, it is expected that this activity is so self-explanatory that there won't be any significant challenges or misconceptions.
+  * Encourage an environment of "fearlessness" We want a dojo where kids are willing to try things 
+
+
+=====What to look for when reviewing their work=====
+
+  * Are they using the green flag hat block?  {{..:greenflagBlock.PNG}}
+  * Did they try some things beyond the basics (the whole poing of this activity is exploration even if they don't completly understand it).
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+
+======Activity : It's Alive======
+**Ninja Instructions** | [[lev1:Act_ItsAlive_m|Mentor Notes]]
+
+=====Introduction=====
+How can you take an image or a photo and make it come alive?\\ {{..:itsaliveSample.PNG}}
+=====Duration =====
+30-45 minutes
+
+=====Instructions=====
+
+  - Choose one of the built in sprites from scratch.\\ {{..:existingSprite.png}}
+  - Click from the Scripts tab to the Costumes tab and make sure it has more than one costume.\\ {{..:costumeTab.PNG}}
+  - Add blocks to make the image come alive when you run the program.\\ {{..:itsaliveStarter.PNG}}
+  - Explore different values is parameters to the blocks.
+  - Repeat with other sprites.
+  - Try making a sprite of your own and creating multiple costumes of your own.
+
+
+=====Suggestions=====
+
+  * Explore several different sprites to see how the Scratch creators try to use costumes to enable animation. Use those ideas in your creations
+  * Experiment with different blocks, block order, and costumes.
+
+
+=====Things to think about when you are done=====
+
+  * What is the difference between a sprite and a costume?
+  * What is an animation?
+  * List three ways you experience loops in real life.
+
+
+=====Sharing your project in the studio=====
+If you need to review, [[lev0:Tut_SharingInAStudio|read this page for instructions on how to share your project in a studio.]]
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/905894|http://scratch.mit.edu/studios/905894]]
+
+
+=====Credits=====
+This project is based on materials from the the [[http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf|Creative Computing curriculum]] by Brennan, Balch, and Chung.
+
+
+

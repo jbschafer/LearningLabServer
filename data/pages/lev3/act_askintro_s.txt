@@ -1,0 +1,43 @@
+
+======Activity : Using Ask to Gather Data ======
+**Ninja Instructions** | [[lev3:Act_askintro_m|Mentor Notes]]
+
+=====Introduction=====
+In the last unit you were using Scratch to write and tell stories.  In this activity we will learn how to add on to stories to make interactive stories by using the Ask block and the answer peg.  {{..:askBlock.png}}
+
+
+
+=====Duration =====
+15-30 minutes
+
+=====Instructions=====
+
+  - Locate  the code for Jack and Jill, Version 1 at: [[http://scratch.mit.edu/projects/51668730/|http://scratch.mit.edu/projects/51668730/]]\\ {{..:jj_1.png}}
+  - Press the green flag icon and watch the story.
+  - Look inside the project and review the code for Mother Goose, Jack, and Jill. 
+  - Review how this code uses timing and broadcast blocks to coordinate all of the actions.\\ \\ Let's suppose that you wanted to customize this story so that anybody who was viewing the story could be part of the story too.  This turns out to be really easy to do.\\ \\ 
+  - Press the button to remix this project.
+  - From the Sensing menu {{..:sensingSubMenu.png}} drag out the ask block and put it into the opening sequence for Mother Goose.\\ {{..:askInJJ.png}}
+  - At this point, press the Green Flag to see what effect this has.  Notice that the story stops, Mother Goose asks the question, and then the program waits for you to enter an answer.  You can enter anything you want.  {{..:firstAsk.png}}\\ \\ Now we want to use that answer.  To do this, we need to create a variable that will store the name so that we can use it later.  To create this variable you need to do several things. \\ \\ 
+  - From the Data menu {{..:dataSubMenu.png}} press the "Make A Variable" button.  {{..:makeVariable.png}}  
+  - This will allow you to create a place in memory where you can store information used by your program.  You assign this place in memory a name so we can use it again later.  When the pop-up box appears you should assign this "Variable name" the name "name"  (WOW, that's confusing.)  {{..:makeName.png}}
+  - Notice that once you do this there are a bunch of new options in the Data menu  {{..:dataOptions.png}}  
+  - One of these is "set name to [0]"  Drag this block out and place it after the ask block you just added.  But we don't want to set name to ZERO.  We want to set it to the answer that the user just gave us.  So from the Sensing menu drag out the "answer" peg and drop it in the opening of the set name block.  When you are done it should look like this:\\ {{..:setName.png}}
+  - Let's run it and see what happens at this point.  Press the green flag and enter your name when Mother Goose asks.  Notice that the name memory in the upper left hand corner stores whatever answer you put in.  {{..:nameWithValue.png}}
+  - Note, you can hide this information from the story screen by unchecking the checkmark next to the name peg in the Data menu.  {{..:nameWithoutCheck.png}}  \\ \\ Now that we have the user's name we want to USE it in our story.  Instead of saying "Jack and Jill" we want to use this person's name in place of Jack.  This means we have to modify {{..:jackOriginal.png}} to use the user's name instead of the name "Jack" (We will replace Jack so that we can still use Jill and rhyme with Hill).  But in order to do this we have to be able to put together the name we just got with the rest of the sentence.\\ \\ 
+  - From the Operators menu {{..:operatorsSubMenu.png}} drag out the "join" peg and drop this into the first opening in the say block {{..:jackModOne.png}}.  We use this join block to put two things together - the name the user gave us, and the rest of the sentence.
+  - Now from the Data menu drop the name peg into the first part of the join block {{..:jackModTwo.png}}
+  - Now type in the rest of the sentence in the second opening {{..:jackModThree.png}}  Don't forget the space before the word "and".
+  - Make a similar modification under "Jack fell down"  {{..:jackFell.png}}
+  - Let's run it.  Press the Green Flag and see what happens.  
+
+There you go!  Now you have the first version of a personalized story!  If you had trouble following any of the instructions in this activity, or just want to see what our "finished" version looks like you can check out  [[http://scratch.mit.edu/projects/51670460/|http://scratch.mit.edu/projects/51670460/]]
+
+=====Things to think about when you are done=====
+
+  * In what situations might you want to use a personalized story?
+  * What other kinds of questions could we have Mother Goose ask to improve this story?  (We will actually try one or two in the next couple of activities!)
+
+
+=====Credits=====
+This project is based on materials from Dr. Ben Schafer at the University of Northern Iowa

@@ -1,0 +1,30 @@
+
+======Activity : Shapes======
+[[lev1:Act_Shapes_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * exploring direction based (relative) movement in Scratch
+  * creating an image using pen-based, logo-like movement
+
+
+
+=====Things to watch for=====
+
+  * This activity is very mathematical at times and can be confusing.
+      * In particular, the angles that we turn when making shapes aren't the angles students will think about. The angle you turn is the EXTERNAL angle rather than the INTERNAL angle which is hard to follow. With a square this is easy, because they are both 90. But with the triangle they are going to be thinking about the 60 degree internal angle and not the 120 external angle
+      * The way to help students with this is to talk about the fact that the cat is going to make X turns and when he is done he will have made a complete 360 degree turn. Thus, a triangle is 360/3 or 120 degrees per turn. An octagon is 360/8 or 45 degrees per turn. A circle COULD be 360/360 or 1 degree per turn.
+
+
+=====What to look for when reviewing their work=====
+
+  * Did they, in fact, use the direction based system (It will be tempting to try coordinates)
+  * Have they explored loops (most of these shapes are much easier with loops)
+
+
+
+
+
+
+

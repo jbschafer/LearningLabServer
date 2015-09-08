@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/feed.php">
+        <title>Cedar Valley</title>
+        <description></description>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <image rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico" />
+       <dc:date>2015-09-06T09:45:52-05:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=about&amp;rev=1425570973&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=badges&amp;rev=1429196476&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=conduct&amp;rev=1425499564&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=contactform&amp;rev=1425926607&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=glossary&amp;rev=1425499564&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=hoc&amp;rev=1425584578&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=resources&amp;rev=1441304095&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=scratch&amp;rev=1429381065&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=start&amp;rev=1440689770&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico">
+        <title>Cedar Valley</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <url>http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=about&amp;rev=1425570973&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-05T09:56:13-05:00</dc:date>
+        <title>about</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=about&amp;rev=1425570973&amp;do=diff</link>
+        <description>Welcome to the Cedar Valley CoderDojo
+
+CoderDojo is a global network of free, volunteer-led, independent, community based programming clubs for young people. These young people learn how to code, develop websites, apps, programs, games and explore technology in an informal and creative environment. In addition to learning to code attendees meet like minded people and get to show off what they've been working on.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=badges&amp;rev=1429196476&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-16T10:01:16-05:00</dc:date>
+        <title>badges</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=badges&amp;rev=1429196476&amp;do=diff</link>
+        <description>Belt and Badge Requirements (working document)
+
+----------
+
+This document is currently a work in progress.  We do not yet have our formal rules/requirements set in place.  You should feel free to read this page to get an idea of what may be expected as you earn belts and badges in the dojo, but at this point these are developmental guidelines and it should be understood that they may change at any time.  Keep an eye on this page for announcements about final requirements when they are set.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=conduct&amp;rev=1425499564&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-04T14:06:04-05:00</dc:date>
+        <title>conduct</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=conduct&amp;rev=1425499564&amp;do=diff</link>
+        <description>CVCoderDojo Code of Conduct
+
+The Cedar Valley CoderDojo is a volunteer run organization and operates on a “drop in” basis. As such, we do not have the capacity to manage signed consent forms. Therefore, attendance at any Cedar Valley CoderDojo events is dependent upon all parents, guardians, and attendees agreeing to the following Code of Conduct. Failure to live up to these conduct rules will result in a student being prohibited from participating in CoderDojo meetings/activities</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=contactform&amp;rev=1425926607&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-09T13:43:27-05:00</dc:date>
+        <title>contactform</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=contactform&amp;rev=1425926607&amp;do=diff</link>
+        <description>To contact us please complete this contact form.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=glossary&amp;rev=1425499564&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-04T14:06:04-05:00</dc:date>
+        <title>glossary</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=glossary&amp;rev=1425499564&amp;do=diff</link>
+        <description>Glossary
+
+Vocabulary words in this glossary include both general computer science terms and language specific terms such as those used in Scratch. Many of the Scratch terms contain links to more information on the Scratch website. (For additional Scratch specific terms check out</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=hoc&amp;rev=1425584578&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-05T13:42:58-05:00</dc:date>
+        <title>hoc</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=hoc&amp;rev=1425584578&amp;do=diff</link>
+        <description>Hour of Code Introductions
+
+Completely new to programming? If you have never attempted to program before we recommend that you explore the fundamentals of programming using one of these “Hour of Code” projects from Code.org.
+
+&lt;http://code.org&gt;
+
+	*  Hour of Code with Frozen's Anna and Elsa
+	*  Hour of Code featuring Angry Birds and Plants vs. Zombies
+	*  Hour of Code featuring Flappy Bird</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=resources&amp;rev=1441304095&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-09-03T13:14:55-05:00</dc:date>
+        <title>resources</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=resources&amp;rev=1441304095&amp;do=diff</link>
+        <description>Information for Students and their Parents
+
+	*  Cedar Valley CoderDojo Code of Conduct  - All students and their parents are expected to be familiar with this document.
+
+	*  Calendar of upcoming Dojo meetings   Please note that starting fall of 2015 we are encouraging participants to “register” for dojo meetings in advance to help us plan for enough mentors.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=scratch&amp;rev=1429381065&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-18T13:17:45-05:00</dc:date>
+        <title>scratch</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=scratch&amp;rev=1429381065&amp;do=diff</link>
+        <description>Programming with Scratch
+
+http://scratch.mit.edu/
+
+If you have a little bit of experience using Hour of Code or some other basic programming language/environment, we suggest that you really learn about programming by studying Scratch. Even if you have played with Scratch on your own or in school, we suggest that you work through the following materials to build a better foundation for programming.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=start&amp;rev=1440689770&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-08-27T10:36:10-05:00</dc:date>
+        <title>start</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=start&amp;rev=1440689770&amp;do=diff</link>
+        <description>Welcome to the Cedar Valley CoderDojo
+
+We are excited that you are interested in learning to program with our dojo.  You can learn a little bit more about our dojo by selecting the About option above.  
+
+But the simple summary is that CoderDojo makes learning to code a fun, sociable experience where the two key rules are</description>
+    </item>
+</rdf:RDF>

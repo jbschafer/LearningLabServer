@@ -1,0 +1,47 @@
+
+======Mastery Activity 1b : Music Video======
+**Ninja Instructions** | [[lev1:Act_MusicVideo_m|Mentor Notes]]
+
+=====Introduction=====
+How can you combine animation with music to create your own Scratch-inspired music video?
+This activity is longer than some of the previous ones we have done because we want you to experiment with sprites, costumes, backdrops, looks, sounds - lots of things!  You will create a program inspired by theatre, song, dance, music, drawing, illustration, photography, and animation to create a personalized music video.
+To get some ideas you can check out:
+
+  * Our dojo's studio:
+          * [[http://scratch.mit.edu/studios/906422|http://scratch.mit.edu/studios/906422]]
+  * A similar studio from the Scratch community:
+          * [[http://scratch.mit.edu/studios/475517|http://scratch.mit.edu/studios/475517/]]
+
+
+=====Duration =====
+30-60 minutes
+
+=====Instructions=====
+
+  - Start by adding some sound to your project. This can be sounds that you find in scratch, ones that you make yourself, or ones that you import from other sources.\\ {{..:soundOptions.PNG}}
+  - Create and animate one or more sprites.\\ {{..:spriteOptions.PNG}}
+  - Make them interact together:  
+    * Use costumes to bring your animations to life!
+    * Make on sprite dance in time to your music.
+    * Make another sprite interactive by adding scripts that have the sprite respond to clicks, key presses, and more.
+    * Add instructions on the project page to explain h ow people can interact with your program.
+  - Use a wide variety of blocks. Some suggestions:\\ {{..:musicVideoBlockOptions.PNG}}\\ \\ {{..:playSoundBlocks.PNG}}
+
+
+=====Things to think about when you are done=====
+
+  * What was one challenge that you overcame? How did you overcome it?
+  * What is something you still want to figure out?
+  * How did you give credit for ideas, music, or code that you borrowed to use in your project?
+
+
+=====Sharing your project in the studio=====
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/906422/|https://scratch.mit.edu/studios/906422/]]
+
+
+=====Credits=====
+This project is based on materials from the the [[http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf|Creative Computing curriculum]] by Brennan, Balch, and Chung.
+
+

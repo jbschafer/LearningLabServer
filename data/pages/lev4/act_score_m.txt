@@ -1,0 +1,27 @@
+
+======Activity : Keeping Score ======
+[[lev4:act_score_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * be able to describe what a variable is and why variables are useful.
+  * be introduced to the computational concept of data
+  * experience remixing and reusing a project or part of a project.
+
+
+
+=====Things to watch for=====
+
+
+
+
+=====What to look for when reviewing their work=====
+
+This game starts with a particular pattern for all games but encourages students to pursue various options.
+   * Did they go beyond the base game to personalize it in some manner?
+   * Can students explain what a variable is and what variables are good for?
+
+
+
+

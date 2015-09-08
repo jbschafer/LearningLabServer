@@ -1,0 +1,50 @@
+
+======Mastery Activity 1a : About Me!======
+**Ninja Instructions** | [[lev1:Act_AboutMe_m|Mentor Notes]]
+
+=====Introduction=====
+How can you combine interesting images and sounds to make an interactive collage about yourself?
+This activity is longer than some of the previous ones we have done because we want you to experiment with sprites, costumes, backdrops, looks, sounds - lots of things!  You will create an interactive Scratch project that helps other members of our dojo learn more about you. What do you like to do, what are some of your ideas, who do you like, etc.
+To get some ideas you can check out:
+
+  * Our dojo's studio:  
+          * [[http://scratch.mit.edu/studios/905380/|http://scratch.mit.edu/studios/905380/]]
+  * A similar studio from the Scratch community:
+          *      [[http://scratch.mit.edu/studios/475470|scratch.mit.edu/studios/475470/]]
+
+
+=====Duration =====
+30-60 minutes
+
+=====Instructions=====
+
+  - Create a sprite of your choice. Notice that there are several ways to add sprites includign using built in sprites and creating ones of your own.\\ {{..:newSprites.PNG}}
+  - Add code to make it interactive and tell us something about YOU!
+  - Repeat. 
+      * Use different sprites with different costumes and different looks
+      * Create different backdrops
+      * Add sound to your project
+      * Add movement to your collage
+  - Use a wide variety of blocks. Some suggestions:\\ {{..:aboutMeSuggestions.PNG}}
+
+
+=====Things to think about when you are done=====
+
+  *  What are you most proud of in this program? Why?
+  * What did you get stuck on? How did you get unstuck?
+  * What might you want to add to this next?
+  * What did you discover looking at other people's "About Me" projects
+
+
+=====Sharing your project in the studio=====
+
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/905380/|http://scratch.mit.edu/studios/905380/]]
+
+
+=====Credits=====
+This project is based on materials from the the [[http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf|Creative Computing curriculum]] by Brennan, Balch, and Chung.
+
+
+

@@ -1,0 +1,35 @@
+
+======Activity : Exploring Scratch======
+**Ninja Instructions** |  [[lev0:Act_ExploringScratch_m|Mentor Notes]]
+
+=====Introduction=====
+This activity is intended to be one of the first activities you complete when you are new to Scratch. It is meant as a simple way for you explore a little bit about working with Scratch by dragging out and connecting the programming blocks. 
+By the time you are done you will have learned  how to connect blocks to write a simple program.
+
+=====Duration =====
+10-15 minutes
+
+=====Instructions=====
+
+  - Go to the Scratch website:  [[http://scratch.mit.edu|http://scratch.mit.edu]]
+  - Sign into your account. If you do not yet have an account you should complete the [[lev0:Tut_ScratchIntro|Introduction to Scratch tutorial]].
+  - Click on the "Create" tab located at the top left of the browser to start a new project.\\ {{..:createMenuArrow.PNG}}
+  - If the tips section is visible on the right hand side of the screen you should hide it for now. You do this by clicking on the x in the upper left corner of the tips section\\ {{..:closeTips.PNG}}
+  - Drag  one of the blocks from the "Motion menu" ({{..:motionSubMenu.PNG}}) to the scripting area. For example:\\ {{..:dragBlock.PNG}}
+  - Click on the block to see what happens.  
+  - Change the number in the circle of the block you chose.  
+    * Try  a bigger number. {{..:move100Steps.PNG}}
+    * Try  a smaller number. {{..:moveTwoSteps.PNG}}
+    * Try  a negative number. {{..:moveNegativeTenSteps.PNG}}\\ Notice how the action changes as you change the number.
+  - Play with the different Scratch blocks from several of the different Scratch menus Suggestion, focus on the{{..:motionSubMenu.PNG}}, {{..:looksSubMenu.PNG}}, {{..:soundSubMenu.PNG}}, and {{..:penSubMenu.PNG}} menus for now. These are the ones you are likely to use as you first get started. But feel free to explore others if you like.
+  - Snap several blocks together. See what happens when you click on one of the blocks in the group. For example:\\ {{..:firstDance.PNG}}
+  - Go into the Control Menu ({{..:controlSubMenu.PNG}}) and find the "hat block" that is called the  "green flag block" {{..:greenflagBlock.PNG}} This is called a hat block because it looks a little bit like a baseball hat from the side.
+  - Connect this block to the top of your existing block stack so that it looks like this:\\ {{..:firstDanceProgram.PNG}}\\ It is ok to **test** code by clicking directly on small blocks of code, but all code used in finished Scratch programs should **always** begin with a "hat block" such as the green flag block.
+  - Now press the green flag icon at the top of the stage:\\ {{..:greenFlagIcon.PNG}}
+
+
+Congratulations. You have just learned how to write a simple program in Scratch!
+
+
+
+

@@ -1,0 +1,45 @@
+
+======Activity : It's a Crazy Scene (Exploring the Stage and backdrops)======
+**Ninja Instructions** | [[lev2:Act_CrazyScene_m|Mentor Notes]]
+
+=====Introduction=====
+One of the things that you may have noticed in previous activities is that you can actually write code associated with the stage. You can even change the backdrop like you would costumes with sprites.
+In this activity you will look at the difference between the stage and sprites. You will create a project that experiments with backdrops like a story with multiple scenes or a slideshow.
+
+=====Duration =====
+30-45 minutes
+
+=====Instructions=====
+
+  - Click on the Stage icon to view the details for the stage:\\ {{..:stageIcon.png}}
+  - Look at the programming blocks available under the Scripts tab.  Identify which menus look the same (or nearly the same) as the Sprite menus and which menus are very different.
+  - Switch to the Backdrops tab in the programming area. Choose from the library, paint, or upload backdrops into your project. Add several backdrops
+  - Experiment with blocks from the Looks and Events menus to initiate switching backdrops.
+  - Add scripts to the stage and to one or more sprites to coordinate what happens when the backdrop changes in your project.  
+  - Experiment and come up with a simple story that uses different scenes/backdrops
+
+
+=====Suggestions=====
+
+  * Look for blocks under the sprites and the stage related to the backdrop and test them out to see what they do.
+
+
+=====Things to think about when you are done=====
+
+  *  What does the Stage have in common with sprites?
+  * How is the Stage different from sprites?
+  * How do yo initiate a sprite's actions in a scene?
+  * What other types of projects (beyond animations) use scene changes?
+
+
+=====Sharing your project in the studio=====
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/909748|http://scratch.mit.edu/studios/909748]]
+
+
+=====Credits=====
+This project is based on materials from the the [[http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf|Creative Computing curriculum]] by Brennan, Balch, and Chung.
+
+
+

@@ -1,0 +1,42 @@
+
+======Activity : Orange Square, Purple Circle======
+**Ninja Instructions** | [[lev1:Act_OSPC_m|Mentor Notes]]
+
+=====Introduction=====
+What project can you create that includes an orange square and a purple circle\\ {{..:ospc_s1.png}}  {{..:ospc_s2.png}}
+=====Duration =====
+30-45 minutes
+
+=====Instructions=====
+
+  - In addition to Scratch cat, create  a new orange square sprite using the paint editor\\ {{..:paintEditor.png}}\\ \\ {{..:orangeSquare.PNG}}
+  - Add different Looks and Motion blocks to each to bring your sprites to life when the green flag is pressed. Compare the same code for both sprites and see how they are the same or different. (You can copy code from one sprite to another by dragging the code from one sprite and dropping it on the sprite icon of another sprite).\\ {{..:ospcStarter.PNG}}
+  - Repeat with other shapes (remember, you should have both an orange square and a purple circle in your finished project).
+  - You may want to play with stamping a copy of your sprite using the stamp block from the pen menu. You use the clear block to erase these changes later.<Br>\\ {{..:stampSample.PNG}}
+
+
+=====Suggestions=====
+
+  * Explore a lot of features before you settle on your final project.
+  * Create a list of things you tried and what their effect was.
+
+
+=====Things to think about when you are done=====
+
+  * How did you incorporate an orange square and a purple circle into your project? Where did this idea come from?
+  * What was challenging about this activity?
+  * What was surprising about this activity?
+
+
+=====Sharing your project in the studio=====
+If you need to review, [[lev0:Tut_SharingInAStudio|read this page for instructions on how to share your project in a studio.]]
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/905796/|http://scratch.mit.edu/studios/905796/]]
+
+
+=====Credits=====
+This project is based on materials from the the [[http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf|Creative Computing curriculum]] by Brennan, Balch, and Chung.
+
+
+

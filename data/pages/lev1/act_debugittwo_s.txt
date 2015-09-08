@@ -1,0 +1,40 @@
+
+======Activity : Debug It #2======
+**Ninja Instructions** | [[lev1:Act_DebugItTwo_m|Mentor Notes]]
+
+=====Introduction=====
+One of the more important skills to have as a programmer is the ability to read and fix other people's code. In this activity you will study five programs that don't work the way that the programmer wanted them to. You will see what you can do to fix them.
+
+=====Duration =====
+15-30 minutes
+
+=====Requirements=====
+
+  * Go to the Debug it #2 studio
+      * [[http://scratch.mit.edu/studios/906382/|http://scratch.mit.edu/studios/906382/]]
+  * For each of the five debugging challenges:
+      * read the instructions
+      * test and debug so that the program does what it is supposed to do
+  * Write down your solution or remix the program with your solution
+
+=====Suggestions=====
+
+  * Make a list of possible bugs in the program.
+  * Keep track of bugs that you see. This can be a great way to help you find bugs in your future work - by reviewing mistakes you have made or seen in the past.
+  * Share and compare your method for finding and fixing the problem with another Code Dojo member. Sometimes there is more than one way to solve a problem and it helps to see multiple solutions.
+
+
+=====Things to think about when you are done=====
+
+  * For each:
+      * What was the problem?
+      * How did you identify the problem?
+      * How did you fix the problem?
+      * Can you see other ways to solve the problem?
+
+
+=====Credits=====
+This project is based on materials from the the [[http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf|Creative Computing curriculum]] by Brennan, Balch, and Chung and code originally written by the Scratch Ed Team.
+
+
+

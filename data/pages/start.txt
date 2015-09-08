@@ -1,0 +1,28 @@
+====== Welcome to the Cedar Valley CoderDojo ======
+
+We are excited that you are interested in learning to program with our dojo.  You can learn a little bit more about our dojo by selecting the [[about|About]] option above.  
+
+But the simple summary is that CoderDojo makes learning to code a fun, sociable experience where the two key rules are
+  - Be Cool!   (Bullying, lying, wasting people's time, and so on are UNcool!)
+  - Be Ferocious!  (Be willing to explore and try things!)
+
+====== New For This Fall ======
+
+This fall we will once again be meeting on the first Saturday of the month at the Cedar Falls Public Library and on the third Saturday of the month at the Waterloo Public Library.  However, we are asking ninjas to pre-register for each session using Eventbrite.  This way we can better plan for the number of Mentors required.  Please pick up free event tickets using the following links:
+
+  * [[https://www.eventbrite.com/e/september-cedar-falls-coderdojo-meeting-tickets-18327440869|September's Cedar Falls Meeting]]
+  * [[https://www.eventbrite.com/e/september-waterloo-coderdojo-meeting-tickets-18328386698|September's Waterloo Meeting]]
+  * [[https://www.eventbrite.com/e/october-cedar-falls-coderdojo-meeting-tickets-18328268344|October's Cedar Falls Meeting]]
+  * [[https://www.eventbrite.com/e/october-waterloo-coderdojo-meeting-tickets-18328505052|October's Waterloo Meeting]]
+  * [[https://www.eventbrite.com/e/november-cedar-falls-coderdojo-meeting-tickets-18328352596|November's Cedar Falls Meeting]]
+  * [[https://www.eventbrite.com/e/november-waterloo-coderdojo-meeting-tickets-18328587298|November's Waterloo Meeting]]
+  * [[https://www.eventbrite.com/e/december-cedar-falls-coderdojo-meeting-tickets-18328374662|December's Cedar Falls Meeting]]
+  * [[https://www.eventbrite.com/e/december-waterloo-coderdojo-meeting-tickets-18328598331|December's Waterloo Meeting]]
+
+
+====== Getting Started ======
+To get started with our dojo explore these links.
+
+  * [[hoc|Getting Started with Hour of Code]] - Are you brand new to programming?  These overview tutorials from Code.org are great ways to learn a little bit about the basics of coding.
+  * [[scratch|Learning to Program in Scratch]] -  Are you ready to explore an actual programming language?  Scratch is the first language we will teach and learn in our dojo.
+  * [[resources|Resources]] - Additional information for parents, students, and mentors.

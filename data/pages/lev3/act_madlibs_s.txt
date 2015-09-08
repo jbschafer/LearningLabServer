@@ -1,0 +1,42 @@
+
+======Mastery Activity : Mad Libs ======
+**Ninja Instructions** | [[lev3:act_madlibs_m|Mentor Notes]]
+
+=====Introduction=====
+In the activities for this level you looked at several features:
+
+  * Using the "ask" block and "answer" peg under the Sensing menu to begin interaction with a human user
+  * Using the creation of variables under Data menu to store data long term
+  * Using the conditional "pegs" under the Operators menu to consider various conditions
+  * Using the selection blocks under the Control menu to decide which course of action to take based on the results of one or more conditionals
+
+In this activity, you will use some of these features to create a basic "mad lib" 
+
+=====Duration =====
+30-60 minutes
+
+
+=====Instructions=====
+
+We bet most of you have seen Mad Libs before.  You ask a player to provide you with several parts of speech (noun, verb, adjective, etc) and then they are placed into a partially existing story.  Normally with wacky or crazy results.
+
+See below to see two simple Mad Libs that we found on the [[http://www.madlibs.com/|official Mad Libs website]].
+
+{{..:madlib1.jpg}}{{..:madlib2.jpg}}
+
+For this activity you should create a simple Mad Lib.  You may use one of the ones given above, or you can completely make up one of your own.  Your mad lib should:
+  * ask a human player for at least four input values.
+  * "tell" the story/mad lib based on the inputs provided by the human user.
+  * include at least one conditional statement that effects the way the story is told.  This can take on any number of forms:
+        * You can ask the user to pick from a small set of values (rather than all nouns, pick between "apple" and "orange") and then use an appropriate sprite when telling your story.
+        * Ask the user to pick a plural noun (normally ends in an "s") and then check to see if they followed directions (this one is harder but can be done using the letter and length operators from the Operators menu.) 
+
+
+=====Sharing your project in the studio=====
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/1021786|http://scratch.mit.edu/studios/1021786]]
+
+
+=====Credits=====
+This project is based on materials from Dr. Ben Schafer at the University of Northern Iowa

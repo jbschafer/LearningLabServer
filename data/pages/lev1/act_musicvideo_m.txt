@@ -1,0 +1,29 @@
+
+======Activity : Music Video======
+[[lev1:Act_MusicVideo_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * be able to create a project the combines multiple aspects of animation and music by working on a self-directed video project
+  * gain more familiarity with sprites, costumes, and sounds
+
+
+
+=====Things to watch for=====
+
+  * This is a mastery project so we want students to show a wide variety of learning
+
+
+=====What to look for when reviewing their work=====
+
+  * Did the projects combine both sprites and sound?
+  * What parts of the project did students choose to animate?
+  * Are there certain blocks or concepts introduced up until now that the student might be struggling with? How can we help them master this?
+
+
+
+
+
+
+

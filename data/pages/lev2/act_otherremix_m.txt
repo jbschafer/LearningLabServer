@@ -1,0 +1,26 @@
+
+======Activity : Another Remix======
+[[lev2:Act_OtherRemix_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * utilize at least one of two different strategies for synchronizing interactions between sprites
+  * practice the skills of reusing and remixing
+  * provide an open-ended but framed opportunity to work with storytelling
+
+
+
+
+=====What to look for when reviewing their work=====
+
+  * Does the project include at least one more character?
+  * Does that character have at least four lines?
+  * Does this character blend into the story?
+
+
+
+
+
+
+

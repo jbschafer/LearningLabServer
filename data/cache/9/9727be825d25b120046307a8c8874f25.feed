@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/feed.php">
+        <title>Cedar Valley</title>
+        <description></description>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <image rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico" />
+       <dc:date>2015-09-06T09:45:47-05:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=resources&amp;rev=1441304095&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=start&amp;rev=1440689770&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_madlibs_s&amp;rev=1435437740&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_musicvideo_s&amp;rev=1431800410&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_itsalive_s&amp;rev=1429382968&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=scratch&amp;rev=1429381065&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=badges&amp;rev=1429196476&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_dreamgame_s&amp;rev=1428945106&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_debugitfour_m&amp;rev=1428944634&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_debugitfour_s&amp;rev=1428944540&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=playground%3Aexist_app.png&amp;ns=playground&amp;rev=1428712078&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongmousecode.png&amp;ns=&amp;rev=1426084018&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongstagestarter.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongpaddlestarter.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongkeyboardcode.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongcomplete.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongballstarter.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongballdead.png&amp;ns=&amp;rev=1426084016&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongballmovement.png&amp;ns=&amp;rev=1426084016&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongballbounce.png&amp;ns=&amp;rev=1426084016&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico">
+        <title>Cedar Valley</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <url>http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=resources&amp;rev=1441304095&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-09-03T13:14:55-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>resources</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=resources&amp;rev=1441304095&amp;do=diff</link>
+        <description>Information for Students and their Parents
+
+	*  Cedar Valley CoderDojo Code of Conduct  - All students and their parents are expected to be familiar with this document.
+
+	*  Calendar of upcoming Dojo meetings   Please note that starting fall of 2015 we are encouraging participants to “register” for dojo meetings in advance to help us plan for enough mentors.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=start&amp;rev=1440689770&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-08-27T10:36:10-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>start</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=start&amp;rev=1440689770&amp;do=diff</link>
+        <description>Welcome to the Cedar Valley CoderDojo
+
+We are excited that you are interested in learning to program with our dojo.  You can learn a little bit more about our dojo by selecting the About option above.  
+
+But the simple summary is that CoderDojo makes learning to code a fun, sociable experience where the two key rules are</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_madlibs_s&amp;rev=1435437740&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-06-27T15:42:20-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>lev3:act_madlibs_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_madlibs_s&amp;rev=1435437740&amp;do=diff</link>
+        <description>Mastery Activity : Mad Libs
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+In the activities for this level you looked at several features:
+
+	*  Using the “ask” block and “answer” peg under the Sensing menu to begin interaction with a human user
+	*  Using the creation of variables under Data menu to store data long term</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_musicvideo_s&amp;rev=1431800410&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-05-16T13:20:10-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>lev1:act_musicvideo_s - [Sharing your project in the studio] </title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_musicvideo_s&amp;rev=1431800410&amp;do=diff</link>
+        <description>Mastery Activity 1b : Music Video
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+How can you combine animation with music to create your own Scratch-inspired music video?
+This activity is longer than some of the previous ones we have done because we want you to experiment with sprites, costumes, backdrops, looks, sounds - lots of things!  You will create a program inspired by theatre, song, dance, music, drawing, illustration, photography, and animation to create a personalized music video.
+T…</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_itsalive_s&amp;rev=1429382968&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-18T13:49:28-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>lev1:act_itsalive_s - removed old html remenant</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_itsalive_s&amp;rev=1429382968&amp;do=diff</link>
+        <description>Activity : It's Alive
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+How can you take an image or a photo and make it come alive?
+
+
+Duration
+
+30-45 minutes
+
+Instructions
+
+	*  Choose one of the built in sprites from scratch.
+
+	*  Click from the Scripts tab to the Costumes tab and make sure it has more than one costume.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=scratch&amp;rev=1429381065&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-18T13:17:45-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>scratch</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=scratch&amp;rev=1429381065&amp;do=diff</link>
+        <description>Programming with Scratch
+
+http://scratch.mit.edu/
+
+If you have a little bit of experience using Hour of Code or some other basic programming language/environment, we suggest that you really learn about programming by studying Scratch. Even if you have played with Scratch on your own or in school, we suggest that you work through the following materials to build a better foundation for programming.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=badges&amp;rev=1429196476&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-16T10:01:16-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>badges</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=badges&amp;rev=1429196476&amp;do=diff</link>
+        <description>Belt and Badge Requirements (working document)
+
+----------
+
+This document is currently a work in progress.  We do not yet have our formal rules/requirements set in place.  You should feel free to read this page to get an idea of what may be expected as you earn belts and badges in the dojo, but at this point these are developmental guidelines and it should be understood that they may change at any time.  Keep an eye on this page for announcements about final requirements when they are set.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_dreamgame_s&amp;rev=1428945106&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-13T12:11:46-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>lev4:act_dreamgame_s - created</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_dreamgame_s&amp;rev=1428945106&amp;do=diff</link>
+        <description>Mastery Activity : Choose Your Own Adventure
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+You started this level by brainstorming what makes a game a game and what things you liked about games.
+
+In the activities for this level you looked at several features:</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_debugitfour_m&amp;rev=1428944634&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-13T12:03:54-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>lev4:act_debugitfour_m - created</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_debugitfour_m&amp;rev=1428944634&amp;do=diff</link>
+        <description>Activity : Debug It #4
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  investigate the problem and find a solution to five debugging challenges
+	*  explore a range of concepts (including conditionals, operators, and data) through the practices of testing and debugging</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_debugitfour_s&amp;rev=1428944540&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-13T12:02:20-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>lev4:act_debugitfour_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_debugitfour_s&amp;rev=1428944540&amp;do=diff</link>
+        <description>Activity : Debug It #4
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+One of the more important skills to have as a programmer is the ability to read and fix other people's code. In this activity you will investigate what is going awry and find a solution for each of the five Debut It! challenges.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=playground%3Aexist_app.png&amp;ns=playground&amp;rev=1428712078&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-10T19:27:58-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>playground:exist_app.png - created</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=playground%3Aexist_app.png&amp;ns=playground&amp;rev=1428712078&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/fetch.php?w=32&amp;h=32&amp;t=1428712078&amp;amp;tok=66c427&amp;amp;media=playground:exist_app.png&quot; alt=&quot;playground:exist_app.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongmousecode.png&amp;ns=&amp;rev=1426084018&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-11T09:26:58-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>pongmousecode.png - created</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongmousecode.png&amp;ns=&amp;rev=1426084018&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/fetch.php?w=342&amp;h=177&amp;t=1426084018&amp;amp;tok=a64d14&amp;amp;media=pongmousecode.png&quot; alt=&quot;pongmousecode.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongstagestarter.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-11T09:26:57-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>pongstagestarter.png - created</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongstagestarter.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/fetch.php?w=479&amp;h=359&amp;t=1426084017&amp;amp;tok=e9b39d&amp;amp;media=pongstagestarter.png&quot; alt=&quot;pongstagestarter.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongpaddlestarter.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-11T09:26:57-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>pongpaddlestarter.png - created</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongpaddlestarter.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/fetch.php?w=96&amp;h=35&amp;t=1426084017&amp;amp;tok=55f677&amp;amp;media=pongpaddlestarter.png&quot; alt=&quot;pongpaddlestarter.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongkeyboardcode.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-11T09:26:57-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>pongkeyboardcode.png - created</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongkeyboardcode.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/fetch.php?w=240&amp;h=183&amp;t=1426084017&amp;amp;tok=5a0560&amp;amp;media=pongkeyboardcode.png&quot; alt=&quot;pongkeyboardcode.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongcomplete.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-11T09:26:57-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>pongcomplete.png - created</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongcomplete.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/fetch.php?w=484&amp;h=362&amp;t=1426084017&amp;amp;tok=a822ee&amp;amp;media=pongcomplete.png&quot; alt=&quot;pongcomplete.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongballstarter.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-11T09:26:57-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>pongballstarter.png - created</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongballstarter.png&amp;ns=&amp;rev=1426084017&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/fetch.php?w=71&amp;h=69&amp;t=1426084017&amp;amp;tok=4e789a&amp;amp;media=pongballstarter.png&quot; alt=&quot;pongballstarter.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongballdead.png&amp;ns=&amp;rev=1426084016&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-11T09:26:56-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>pongballdead.png - created</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongballdead.png&amp;ns=&amp;rev=1426084016&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/fetch.php?w=241&amp;h=152&amp;t=1426084016&amp;amp;tok=1b830d&amp;amp;media=pongballdead.png&quot; alt=&quot;pongballdead.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongballmovement.png&amp;ns=&amp;rev=1426084016&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-11T09:26:56-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>pongballmovement.png - created</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongballmovement.png&amp;ns=&amp;rev=1426084016&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/fetch.php?w=177&amp;h=182&amp;t=1426084016&amp;amp;tok=5a9c0e&amp;amp;media=pongballmovement.png&quot; alt=&quot;pongballmovement.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongballbounce.png&amp;ns=&amp;rev=1426084016&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-11T09:26:56-05:00</dc:date>
+        <dc:creator>jbschafer</dc:creator>
+        <title>pongballbounce.png - created</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?image=pongballbounce.png&amp;ns=&amp;rev=1426084016&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/fetch.php?w=327&amp;h=205&amp;t=1426084016&amp;amp;tok=3beefa&amp;amp;media=pongballbounce.png&quot; alt=&quot;pongballbounce.png&quot; /&gt;</description>
+    </item>
+</rdf:RDF>

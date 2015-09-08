@@ -1,0 +1,58 @@
+====== Belt and Badge Requirements (working document) ======
+
+
+----
+
+**This document is currently a work in progress.  We do not yet have our formal rules/requirements set in place.  You should feel free to read this page to get an idea of what may be expected as you earn belts and badges in the dojo, but at this point these are developmental guidelines and it should be understood that they may change at any time.  Keep an eye on this page for announcements about final requirements when they are set.**
+
+----
+
+
+Ninjas in the dojo can currently earn three belts for coding progress in Scratch:
+    * White Belt
+    * Yellow Belt
+    * Blue Belt
+
+Belts will formally be awarded at **belt ceremonies** held approximately quarterly (March, June, September, and December).  Ninjas who feel they have qualified for a belt should notify the dojo Champion approximately one month before the next belt ceremony so that there is sufficient time for the Champion to check documentation and arrange for a demonstration where appropriate.
+
+==== White Belt ====
+
+**Overview ** - The first belt you can earn is your White Belt.  To earn this belt ninjas must attend and participate in five dojo meetings.  During those five meetings ninjas must display some form of advancement in learning about Scratch.  This includes working on the suggested Scratch activities, working on activities of your own creation, posting projects to the dojo Scratch galleries, and/or working with another ninja as a helper or on a collaborative project.
+
+**Process**  - This is the only belt earned largely on participation.  We ask you to sign in at the beginning of each dojo meeting.  We will keep track of your attendance.  You need not formally apply for your white belt.  We will automatically award white belts at each belt ceremony to those who have become newly qualified.  If you feel we have missed awarding you this belt please talk to a mentor.
+
+
+==== Yellow Belt ====
+
+**Overview **  - The Yellow Belt is awarded to ninjas who have completed their white belt and have progressed to demonstrate strong basic competency in working with Scratch.  This includes creating projects involving movement, sound, sprite appearance, and basic storytelling.  This belt roughly correlates to demonstrable mastery of Levels 1 and 2 in the Scratch Programming activities.
+
+**Process** - Ninjas who want to earn their yellow belt should begin by creating a studio in their own Scratch account.  This studio should include examples of projects created by the ninja that demonstrate that the ninja understands how to:
+
+  * create a new project
+  * move a sprite in multiple directions
+  * return a sprite to center
+  * run a command block
+    * with the 'Go' sign
+    * with a key press
+  * play a sound
+  * use the "SAY" block
+  * change the color of a sprite or object (line)
+  * draw a line
+  * add a background
+  * add a sprite
+  * change a sprite's costume
+  * show how to animate a sprite using:
+       * one or more repeat blocks
+       * at least one 'IF' block and
+       * 3+ costumes
+
+
+1. Share an original project and collaborate with _at least_ two other ninjas
+
+
+
+==== Blue Belt ====
+
+**Overview **  - The Blue Belt is awarded to ninjas who have completed their yellow belt and have progressed to demonstrate advanced competency in Scratch.  This creating projects involving movement, sound, sprite appearance, and basic storytelling.  This belt is considered to be basic mastery of Levels 1 and 2.
+
+**Process** - Ninjas who want to earn their yellow belt should begin by creating a studio in their own Scratch account.  This studio should include examples of projects created by the ninja that demonstrate that the ninja understands how to:

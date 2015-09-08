@@ -1,0 +1,44 @@
+====== Information for Students and their Parents ======
+
+  * [[conduct|Cedar Valley CoderDojo Code of Conduct]]  - All students and their parents are expected to be familiar with this document.
+
+  * [[https://www.google.com/calendar/embed?src=cvia.coderdojo@gmail.com&ctz=America/Chicago|Calendar of upcoming Dojo meetings]]   Please note that starting fall of 2015 we are encouraging participants to "register" for dojo meetings in advance to help us plan for enough mentors.  
+       * [[https://www.eventbrite.com/e/september-cedar-falls-coderdojo-meeting-tickets-18327440869|September's Cedar Falls Meeting]]
+       * [[https://www.eventbrite.com/e/september-waterloo-coderdojo-meeting-tickets-18328386698|September's Waterloo Meeting]]
+       * [[https://www.eventbrite.com/e/october-cedar-falls-coderdojo-meeting-tickets-18328268344|October's Cedar Falls Meeting]]
+       * [[https://www.eventbrite.com/e/october-waterloo-coderdojo-meeting-tickets-18328505052|October's Waterloo Meeting]]
+       * [[https://www.eventbrite.com/e/november-cedar-falls-coderdojo-meeting-tickets-18328352596|November's Cedar Falls Meeting]]
+       * [[https://www.eventbrite.com/e/november-waterloo-coderdojo-meeting-tickets-18328587298|November's Waterloo Meeting]]
+       * [[https://www.eventbrite.com/e/december-cedar-falls-coderdojo-meeting-tickets-18328374662|December's Cedar Falls Meeting]]
+       * [[https://www.eventbrite.com/e/december-waterloo-coderdojo-meeting-tickets-18328598331|December's Waterloo Meeting]]
+
+  * [[glossary|Glossary]] - Knowing the proper name for something is almost as important as knowing how to use it. This is a list of some of the vocabulary terms you may hear when we talk about programming in general and with Scratch.
+
+  * [[http://eepurl.com/bezvrD|Joining the dojo mailing list]]
+  * [[contactform|Contacting the Dojo]]
+
+
+====== Informational Articles about Coding ======
+
+    * [[http://mashable.com/2014/08/29/ask-a-dev-coding/?utm_cid=mash-com-fb-stup-link|How to succeed in coding at a young age]]
+
+
+====== Information for mentors ======
+
+  * Mentor Registration
+             * [[https://www.eventbrite.com/e/fall-2015-waterloo-coderdojo-mentors-tickets-18458963256|Waterloo Dates]]
+             * [[https://www.eventbrite.com/e/fall-2015-cedar-falls-mentors-tickets-18459045502|Cedar Falls Dates]]
+
+
+  * [[https://coderdojo.com/|International Coder Dojo Organization]]
+  * [[https://zen.coderdojo.com/charter|CoderDojo Charter]] - Discusses the Code of Conduct for mentors.
+
+
+
+====== Links to other Iowa Dojos ======
+
+  * [[https://http://coderdojocr.com/|Cedar Rapids]]
+  * [[https://www.facebook.com/codeiowa|Des Moines Metro Region]]
+  * [[https://twitter.com/coderdojo50125|Indianola]]
+  * [[https://coderdojoic.org|Iowa City]] 
+  * [[http://coderdojomuscatine.weebly.com/about.html|Muscatine]] 

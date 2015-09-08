@@ -1,0 +1,48 @@
+
+======Activity : Build Your Own Scrolling Game ======
+**Ninja Instructions** | [[lev4:act_scrolling_m|Mentor Notes]]
+
+=====Introduction=====
+In this activity you will create a basic side scrolling game.
+
+
+=====Duration =====
+15-30 minutes
+
+=====Instructions=====
+  - Open up a new program area in Scratch or begin by remixing our [[http://http://scratch.mit.edu/projects/51871028/#editor|Scrolling Starter]] program.
+  - If you are creating this program completely on your own:
+         * Add a sprite for an object that will move through your world like a helicopter or flappy bird.\\ {{..:scrollHeliImg.png}}
+         * Add a sprite for the obstacles that you will be avoiding.\\ {{..:scrollBarImg.png}}\\ \\ You may want to make several different costumes for this object with the "opening" at different places so that you can add some challenge to your game.
+         * Design your basic backdrop.\\  {{..:scrollBackImg.png}}
+         * Put them all together so you have a simple pong game showing.\\ {{..:scrollFullImg.png}}
+  - If you are using our sample starter code, take a look at what we have for these features.
+  - 
+
+Great.  Now you have a basic scrolling game.  Try some of these modifications.
+
+
+  * Make a variable to keep score.
+  * How do you add difficulty to the game by increasing speed of the obstacles or the rate at which the helicopter drops?  (Hint, you can watch the score or use a timer)
+  * Can you add in the concept of multiple lives?
+  * How can you add levels by changing the backdrops or the types of obstacles.
+
+
+The following blocks make great blocks to play around with as part of this game:
+
+{{..:gameBlocks.png}}
+
+
+
+=====Things to think about when you are done=====
+
+  * What was challenging about designing this game?
+  * What feature are you most proud of?
+
+=====Sharing your project in the studio=====
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/1024270|http://scratch.mit.edu/studios/1024270]]
+
+=====Credits=====
+This project is based on materials from the the [[http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf|Creative Computing curriculum]] by Brennan, Balch, and Chung.

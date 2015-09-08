@@ -1,0 +1,31 @@
+
+======Activity : Build A Band======
+[[lev1:Act_BuildABand_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * creating a program that combines interactive sprites with interesting sounds
+  * developing greater fluency with sequence, loops, events, and parallelism
+  * practice experimenting and iterating in building up project creations
+
+
+
+=====Things to watch for=====
+
+  * There is a lot of flexibility here. Having said that, the directions show a few specific examples. Did students make an effort to explore and be creative or did they just copy down the examples in the directions?
+  * Students may want to explore other events that cause sounds to play. This is fine. However, commands to play various instruments shouldn't be hidden from view. That is, you should understand how to make things work without the student explaining it. If not, ask them to add some instructions or change things to be as intuitive as possible.
+
+
+=====What to look for when reviewing their work=====
+
+  * Do projects make creative use of sound?
+  * Are the sprites in the projects interactive?
+  * Did they use loops for one or more sprites?
+
+
+
+
+
+
+

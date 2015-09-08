@@ -1,0 +1,50 @@
+
+======Activity : Build Your Own Maze Game======
+**Ninja Instructions** | [[lev4:act_maze_m|Mentor Notes]]
+
+=====Introduction=====
+In this activity you will create a basic maze game.
+
+
+=====Duration =====
+15-30 minutes
+
+=====Instructions=====
+  - Open up a new program area in Scratch or begin by remixing our Maze Starter program.
+  - If you are creating this program completely on your own:
+         * Go into the Stage  and create a backdrop that looks something like a maze.  It should have a single color background and a single color of walls like:\\ {{..:mazeStarter.png}}
+         * Add a sprite for a ball that will be the object you move through the maze.  Make sure it isn't too big or it CAN'T get through the maze.  \\ {{..:ballStarter.png}}
+         * Add a sprite for the goal position a the end of the maze.\\ {{..:goalStarter.png}}
+         * Put them all together so you have a simple maze game showing.\\ {{..:mazeComplete.png}}
+  - If you are using our sample starter code, take a look at what we have for these features.
+  - Add the following code to the ball so that it knows to start the game in it's starting location when the green flag is pressed.\\ {{..:mazeToStart.png}}\\ 
+  - Add the following code to the ball so that the player can move the ball around the maze.\\ {{..:mazeMovements.png}}\\ 
+  - Notice that you can now move the ball around the game but it can run right over the top of the walls.  If you want to have it bounce off the walls when you hit it then you try adding this:\\ {{..:mazeBounce.png}} \\ Note, if you made your own maze you will need to adjust this code to look for the color of your walls.\\  
+  - Now you just need to have a way to win the game.  Under the goal add the following code:\\ {{..:mazeEndGame.png}}
+
+Great!  Now you have a basic maze game.  Let's play around with changes.
+
+  * What would you need to do to modify the code to have the ball look for the goal rather than having the goal look for the ball?
+  * Add multiple levels to your game by creating additional stage backdrops.  How can you have the program start with level one and then advance to additional levels?
+  * Change the game so that touching the walls sends you back to the beginning of the level.
+  * Make a variable block to keep score.
+  * Experiment with the timer blocks to add an extra level of challenge to the maze.
+
+The following blocks make great blocks to play around with as part of this game:
+
+{{..:gameBlocks.png}}
+
+
+
+=====Things to think about when you are done=====
+
+  * What was challenging about designing this game?
+  * What feature are you most proud of?
+
+=====Sharing your project in the studio=====
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/1022058|http://scratch.mit.edu/studios/1022058]]
+
+=====Credits=====
+This project is based on materials from the the [[http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf|Creative Computing curriculum]] by Brennan, Balch, and Chung.

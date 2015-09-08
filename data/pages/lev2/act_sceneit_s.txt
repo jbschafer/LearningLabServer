@@ -1,0 +1,53 @@
+
+======Mastery Activity 2b : Scene It======
+**Ninja Instructions** | Mentor Notes
+
+=====Introduction=====
+The last mastery activity asked you to focus on a nursery rhyme. In this activity you can follow the exact same set of guidelines, but you can animate a scene from your favorite TV show or movie. Or if you prefer, a scene from your favorite book. It's all about the power of using Scratch to allow you to be creative!
+To get some ideas you can check out:
+
+  * Our dojo's studio:  
+       * [[http://scratch.mit.edu/studios/955952/|http://scratch.mit.edu/studios/955952/]]
+
+
+=====Duration =====
+60-90 minutes
+
+=====Instructions=====
+Create a brand new story (not a remix this time) that:
+
+
+  * Uses at least three different sprites where at least one of those sprites is someting you found on the Internet (not a pre-loaded image from Scratch)
+  * Use blocks from a minimu of five of the six sub-menus:
+      * {{..:motionSubMenu.PNG}}
+      * {{..:looksSubMenu.PNG}}
+      * {{..:soundSubMenu.PNG}}
+      * {{..:penSubMenu.PNG}}
+      * {{..:eventsSubMenu.PNG}}
+      * {{..:controlSubMenu.PNG}}
+  * Sequence several "actions" to "show" a scene from a book, TV show, movie, etc. when the green flag is pressed.
+  * We strongly encourage you to use at least three of the following:
+      * Recording your own sounds
+      * The use of multiple costumes/backdrops
+      * Incorporate something unique to you, your school, etc. (why not use a picture of you in your story?)
+      * Use broadcast messages to synchronize your story
+
+
+=====Things to think about when you are done=====
+
+  * What are you most proud of in this program? Why?
+  * What did you get stuck on? How did you get unstuck?
+  * What might you want to add to this next?
+
+
+=====Sharing your project in the studio=====
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/955952/|http://scratch.mit.edu/studios/955952/]]
+
+
+=====Credits=====
+This project is based on materials from Dr. Ben Schafer at the University of Northern Iowa.
+
+
+

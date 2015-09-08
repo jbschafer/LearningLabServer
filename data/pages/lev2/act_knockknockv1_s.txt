@@ -1,0 +1,34 @@
+
+======Activity : Knock Knock Joke, version 1 ======
+**Ninja Instructions** | [[lev2:Act_KnockKnockV1_m|Mentor Notes]]
+
+=====Introduction=====
+One of the powerful things you can do with Scratch it use it to tell stories. One of the challenges of programming Scratch to tell stories is to coordinate actions between the different sprites and even the stage. In this activity you will work with some existing code to see how we can use careful timing to tell a silly knock knock joke.
+When put together with [[lev2:Act_KnockKnockV2_s| Knock Knock Joke, version 2]] this pair of activities will explore different ways to program sprites to have conversations. You will experiment with timing and explore using boradcasts while making changes to a SILLY knock knock joke.
+
+=====Duration =====
+15-30 minutes
+
+=====Instructions=====
+
+  - Locate  the story for Knock Knock Joke, Version 1 at: [[http://scratch.mit.edu/projects/46302340/|http://scratch.mit.edu/projects/46302340/]]\\ {{..:kk_1.png}}
+  - Press the green flag icon and watch the joke/story.
+  - Look inside the project and review the code for Lisa, John, and the Stage (did you know that you can put code with the stage?)
+  - Figure out how this code uses timing through wait blocks to coordinate all of the actions.
+  - Press the button to remix this project.
+  - Look at the costume tabs for both Lisa and John. Modify the program so that the sprites switch to laughing at the end. \\ {{..:kk_1b.PNG}}\\ \\ Don't forget to adjust the code so they go back to their "normal" looks at the beginning of the program.  
+  - Notice that John also has a thinking costume.  Modify the joke so that John **thinks** about the punchline for a few extra seconds before he says "Who's there?"
+  - Make any additional changes you would like to make to the telling of this joke.
+
+
+=====Things to think about when you are done=====
+
+  * In what situations did you need to modify the timing? What was hard about making that change?
+  * In what situations would you use timing in a project?
+
+
+=====Credits=====
+This project is based on materials from Dr. Ben Schafer at the University of Northern Iowa
+
+
+

@@ -1,0 +1,66 @@
+
+======Mastery Activity 2a : Nursery Rhyme======
+**Ninja Instructions** | Mentor Notes
+
+=====Introduction=====
+What would have happened if Mother Goose knew about Scratch? 
+For this activity you should use Scratch to animate a short story that has some movement in the story line.  One of the quickest things that comes to mind is using a nursery rhyme such as:
+
+  * Hickory Dickory Dock
+  * Hey Diddle Diddle the Cat and the Fiddle
+  * Jack and Jill
+  * The Eensie, Weensie Spider
+
+However, you are NOT restricted to one of these examples. 
+ 
+For this assignment you should "tell" and "animate" the nursery rhyme in Scratch.  For example, if you select "Hickory, Dickory, Dock" you would perhaps find a mouse image and a clock image and create sprites using the images.  You might have the clock "say" (one at a time) the individual lines from the rhyme.  Coordinated with that you might make the mouse appear to run across the room and up the clock (and back down again of course).  You would probably use the sound feature to make the clock "strike one."  You might even attempt to change the appearance of the mouse using Looks options or a second mouse costume to make the mouse look surprised when the clock strikes.\\ {{..:hickoryDickorySample.jpg}}
+
+
+To get some ideas you can check out:
+  * Our dojo's studio:  
+       * [[http://scratch.mit.edu/studios/955912/|http://scratch.mit.edu/studios/955912/]]
+  * A similar studio from some UNI students:    
+       * [[lev2:../scratch.mit.edu/studios/475470|http://scratch.mit.edu/studios/250371/]]
+
+
+=====Duration =====
+60-90 minutes
+
+=====Instructions=====
+Create a brand new story (not a remix this time) that:
+
+
+  * Uses at least three different sprites where at least one of those sprites is someting you found on the Internet (not a pre-loaded image from Scratch)
+  * Use blocks from a minimum of five of the six sub-menus:
+      * {{..:motionSubMenu.PNG}}
+      * {{..:looksSubMenu.PNG}}
+      * {{..:soundSubMenu.PNG}}
+      * {{..:penSubMenu.PNG}}
+      * {{..:eventsSubMenu.PNG}}
+      * {{..:controlSubMenu.PNG}}
+  * Sequence several "actions" to "tell" a nursery rhyme when the green flag is pressed.
+  * We strongly encourage you to use at least three of the following:
+      * Recording your own sounds
+      * The use of multiple costumes/backdrops
+      * Incorporate something unique to you, your school, etc. (why not use a picture of you in your story?)
+      * Use broadcast messages to synchronize your story
+
+
+=====Things to think about when you are done=====
+
+  * What are you most proud of in this program? Why?
+  * What did you get stuck on? How did you get unstuck?
+  * What might you want to add to this next?
+
+
+=====Sharing your project in the studio=====
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/955912/|http://scratch.mit.edu/studios/955912/]][[http://scratch.mit.edu/studios/905380/|]]
+
+
+=====Credits=====
+This project is based on materials from Dr. Ben Schafer at the University of Northern Iowa.
+
+
+

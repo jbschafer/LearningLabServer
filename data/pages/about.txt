@@ -1,0 +1,16 @@
+====== Welcome to the Cedar Valley CoderDojo ======
+
+CoderDojo is a global network of free, volunteer-led, independent, community based programming clubs for young people. These young people learn how to code, develop websites, apps, programs, games and explore technology in an informal and creative environment. In addition to learning to code attendees meet like minded people and get to show off what they've been working on.
+
+Our dojo is a joint effort between the public libraries in Cedar Falls and Waterloo, IA. Once we get rolling we will meet on a regular schedule of first (Cedar Falls) and third (Waterloo) Saturdays of each month. Participants ("Ninjas") are welcome to come to meetings at both locations.
+
+The dojo is mentored by a variety of individuals from around the Cedar Valley with a variety of backgrounds ranging from professional programmers and web designers to college professors to self-taught parents. The one thing that we all have in common is an interest in helping students in grades 5-12 to get started learning about computer programming. There is a focus on community, peer learning, youth mentoring and self led learning with an emphasis on openness, helping others and showing how coding is a force for change in the world.
+
+CoderDojo makes development and learning to code a fun, sociable experience where the two key rules are:
+
+  - Be Cool.
+  - Be Ferocious!
+
+To get started with our dojo select from one of the menu options at the top of the page.
+  - If you are completely new to programming we suggest you get started by exploring some "short" overviews of programming hosted by the Hour of Code initiative at Code.org.  Select the [[hoc|Getting Started]] option.
+  - If you have a little experience with programming we suggest you get a good foundation in programming by learning how to program with Scratch.  Select the [[scratch|Scratch Programming]] option.

@@ -1,0 +1,41 @@
+
+======Activity : Game Exploration ======
+**Ninja Instructions** | [[lev4:act_gameexploration_m|Mentor Notes]]
+
+=====Introduction=====
+This activity doesn't actually involve programming.  Instead, it is just a reflection activity to get you to think about games (both online and offline).
+
+One good way to get a feel for all the different ways that things can be done is to look at a bunch of existing programs and see how they work - to answer the question "how did they (the programmers) do that?"  In this activity you won't be creating any code yourself.  Instead you will be looking at several existing programs and answering both broad and specific questions about how certain things were accomplished in the code.
+
+
+=====Duration =====
+30-45 minutes
+
+=====Instructions=====
+  - One at a time look at the following programs
+         * [[http://scratch.mit.edu/projects/26825091/|Kaliedescope]]
+         * [[http://scratch.mit.edu/projects/26825224/|Colorful Ball]]
+         * [[http://scratch.mit.edu/projects/26825132/|Maze Robot]]
+         * [[http://scratch.mit.edu/projects/26825167/|Pong]]
+         * [[http://scratch.mit.edu/projects/26825199/|Fortune Teller]]
+         * [[http://scratch.mit.edu/projects/26825341/|Talking Picture]]
+
+
+  - For each of the programs answer the following questions:
+        * What happens when you press the green flag?
+        * Is the game controlled by the keyboard or the mouse (or both)?
+        * Take some time to look at the code for each of the sprites and the stage.  How did the programmer get the game to "work"
+        * What new feature(s) did you discover while exploring this code?
+        * What kinds of games/programs could you create using this feature?
+  - Find at least one other game that interests you by exploring the Scratch website and answer the same questions again.
+
+
+
+=====Things to think about when you are done=====
+
+  * The key to this activity is identifying the new code elements that help the "player" interact with the game.  What did you learn about this idea?
+
+
+
+=====Credits=====
+This project is based on materials from Dr. Ben Schafer at the University of Northern Iowa and programs found on Scratch.

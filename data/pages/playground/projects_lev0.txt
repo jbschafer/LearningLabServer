@@ -1,0 +1,25 @@
+====== CV CoderDojo Ninja Projects Level 0 ======
+Click on a link below to view projects from another level.
+    *  [[projects_lev0.txt|Level 0]]
+    *  [[projects_lev1.txt|Level 1]]
+    *  [[projects_lev2.txt|Level 2]]
+
+
+Clicking on an icon in the table will take you to that Ninja's project.
+    
+
+|  ^Scratch Surprise  [[lev0:act_scratchsurprise_s|Instructions]]  [[http://scratch.mit.edu/studios/884064/|ProjectGallery]] ^Step-by-Step  [[lev0:act_stepbystep_s|Instructions]]  [[http://scratch.mit.edu/studios/887578/|ProjectGallery]] ^Twelve Blocks  [[lev0:act_twelveblocks_s|Instructions]]  [[http://scratch.mit.edu/studios/888046/|ProjectGallery]] ^
+^  [[http://scratch.mit.edu/users/CNS2004/|CNS2004]] | [[http://scratch.mit.edu/projects/55738988/|{{new_app.png|}}]]  | [[http://scratch.mit.edu/projects/55741764/|{{new_app.png|}}]]  | [[http://scratch.mit.edu/projects/55744306/|{{new_app.png|}}]]  | 
+^  [[http://scratch.mit.edu/users/Coder_Hero_6/|Coder_Hero_6]] | [[http://scratch.mit.edu/projects/48977262/|{{new_app.png|}}]] [[http://scratch.mit.edu/projects/48981042/|{{new_app.png|}}]] [[http://scratch.mit.edu/projects/50121618/|{{new_app.png|}}]] [[http://scratch.mit.edu/projects/51256074/|{{new_app.png|}}]]  | [[http://scratch.mit.edu/projects/48977262/|{{new_app.png|}}]]  | [[http://scratch.mit.edu/projects/48981042/|{{new_app.png|}}]]  | 
+^  [[http://scratch.mit.edu/users/eliana10/|eliana10]] | [[http://scratch.mit.edu/projects/48995670/|{{new_app.png|}}]]  | {{blank.png|}} | {{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/emilyturtle/|emilyturtle]] | {{blank.png|}} | {{blank.png|}} | [[http://scratch.mit.edu/projects/51257304/|{{new_app.png|}}]]  | 
+^  [[http://scratch.mit.edu/users/franceslincoln/|franceslincoln]] | {{blank.png|}} | {{blank.png|}} | {{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/frosting3/|frosting3]] | [[http://scratch.mit.edu/projects/55741092/|{{new_app.png|}}]]  | {{blank.png|}} | {{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/happypanther42/|happypanther42]] | [[http://scratch.mit.edu/projects/51260558/|{{new_app.png|}}]] [[http://scratch.mit.edu/projects/53683874/|{{new_app.png|}}]] [[http://scratch.mit.edu/projects/48979066/|{{new_app.png|}}]] [[http://scratch.mit.edu/projects/53674592/|{{new_app.png|}}]]  plus more! | {{blank.png|}} | {{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/horsepaige/|horsepaige]] | {{blank.png|}} | [[http://scratch.mit.edu/projects/45848214/|{{new_app.png|}}]]  | [[http://scratch.mit.edu/projects/48980108/|{{new_app.png|}}]]  | 
+^  [[http://scratch.mit.edu/users/julian10123/|julian10123]] | [[http://scratch.mit.edu/projects/53676756/|{{new_app.png|}}]] [[http://scratch.mit.edu/projects/51249070/|{{new_app.png|}}]]  | [[http://scratch.mit.edu/projects/53655356/|{{new_unapp.png|}}]]  | {{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/kd123cool/|kd123cool]] | [[http://scratch.mit.edu/projects/51332862/|{{new_app.png|}}]] [[http://scratch.mit.edu/projects/51291394/|{{new_app.png|}}]] [[http://scratch.mit.edu/projects/51359170/|{{new_app.png|}}]] [[http://scratch.mit.edu/projects/51554172/|{{new_app.png|}}]]  plus more! | [[http://scratch.mit.edu/projects/55739892/|{{new_app.png|}}]]  | {{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/kickaj07/|kickaj07]] | [[http://scratch.mit.edu/projects/53680652/|{{new_app.png|}}]]  | {{blank.png|}} | {{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/OWENsnoopy123/|OWENsnoopy123]] | [[http://scratch.mit.edu/projects/51256414/|{{new_app.png|}}]]  | {{blank.png|}} | {{blank.png|}} | 
+^  [[http://scratch.mit.edu/users/packercade/|packercade]] | [[http://scratch.mit.edu/projects/42562636/|{{new_app.png|}}]] [[http://scratch.mit.edu/projects/42567976/|{{new_app.png|}}]]  | {{blank.png|}} | {{blank.png|}} | 
+This table last updated:  2015-04-11 10:56:49

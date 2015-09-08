@@ -1,0 +1,45 @@
+
+======Activity : This would be so much better if... (Harry Potter Remix)======
+**Ninja Instructions** | [[lev2:Act_HPRemix_m|Mentor Notes]]
+
+=====Introduction=====
+Now that you have learned a little bit about how stories and animations can be built using timing, broadcast messages, and the stage, let's work on some projects that have you create a story. For this activity you will  remix an existing project based on a scene from Harry Potter (Don't worry if you don't know the Harry Potter series. It won't really matter). You will have some freedom to go just about any direction you want to go, but you will work within an existing project.
+
+=====Duration =====
+30-45 minutes
+
+=====Instructions=====
+
+  - Check out the Potter Starter story on the Scratch website:  [[http://scratch.mit.edu/projects/46302404/|http://scratch.mit.edu/projects/46302404/]]
+  - Press the green flag and watch what it does:  \\ {{..:harryPotterStarter.PNG}}
+  - Look inside to see how the programmers created this story. 
+  - Remix this story to your own account so that you can personalize this story on your own.
+  - Add at  least one more sprite/character. You can use existing images in Scratch, draw your own using the built in editor, import images from the Internet, or use some of the sprites that are in the project but not yet being used. Your choice!
+  - Make sure that this character (or characters)  have at least four lines of dialog that blend into the storyline of the original program. Doing this will require that you also update the dialog of at least one of the current characters in your story. You may add this character in to one of the existing scenes or add an entirely new scene into the story (containing at least one of the original characters).  Either way, this new character should be a "sensible" addition to the overall story.
+
+=====Suggestions=====
+
+  * adding in sound effects and/or music
+  * adding in movement of the characters
+  * adding additional sprites, costumes, backgrounds to improve the overall appearance of the story
+  * make yourself one of the characters
+
+
+=====Things to think about when you are done=====
+
+  * How did it feel to remix and build on others' work? 
+  * Where else in your life have you seen or experience reusing and remixing?
+  * What were the challenges in lengthening this story?
+
+
+=====Sharing your project in the studio=====
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/909958/|http://scratch.mit.edu/studios/909958/]]
+
+
+=====Credits=====
+This project is based on materials developed at UNI by Ben Schafer.
+
+
+

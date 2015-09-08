@@ -1,0 +1,35 @@
+
+======Activity : Twelve Blocks======
+[[lev0:Act_TwelveBlocks_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+While completing this activity students will:
+
+  * create a project with the constraint of using only 12 blocks
+
+This causes students to think about the fact that even 12 simple commands can generate a lot of cool outcomes.
+
+=====Things to watch for=====
+
+  * Encourage creativity.
+  * Encourage collaboration and "show and tell" moments. Be willing to ask all or part of the group to come over and see something cool that one person is doing.
+  * If this were a classroom I would plan a show and tell timeframe to demonstrate that there can still be a lot of diversity from only those 12 blocks. In a dojo that is a little harder to do but it can still be accomplished by encouraging students to explore the studio as it builds up.
+
+
+
+=====What to look for when reviewing their work=====
+
+  * Did they use EACH of the 12 blocks at least once? (They are supposed to use each one.)
+  * Did they use any blocks beyond the 12? (They aren't supposed to.)
+
+
+=====Ways to extend this activity=====
+
+  * Encourage a pair of students to review each others projects in the studio and each one consider HOW the other person made their program do what it does.
+  * While the idea of remix hasn't been taught formally yet, we might consider ways that students could take someone elses work and modify it.
+
+
+
+
+
+

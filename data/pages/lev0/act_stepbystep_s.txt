@@ -1,0 +1,59 @@
+
+======Activity : Step-By-Step======
+**Ninja Instructions** | [[lev0:Act_StepByStep_m|Mentor Notes]]
+
+=====Introduction=====
+Now that you know a little bit about how to get started with Scratch it is time to learn more about the different things you can do with it. In this activity you will work, step-by-step, through "Getting Started with Scratch" under the "tips" section of the Scratch website. 
+ By the time you are done you will have created  a simple program which will introduce you to:
+
+  * movement
+  * sound
+  * repetition
+  * speaking
+  * colors
+  * key press events
+  * backgrounds
+  * adding sprites
+
+
+=====Duration =====
+15-30 minutes
+
+=====Instructions=====
+
+  - Go to the Scratch website:  [[http://scratch.mit.edu|http://scratch.mit.edu]]
+  - Sign into your account. If you do not yet have an account you should complete the [[lev0:Tut_ScratchIntro|Introduction to Scratch tutorial]].
+  - Click on the "Create" tab located at the top left of the browser to start a new project.
+  - In some of the previous Activities we had you hide the tips section. In this Activity we actually want to use this again. If the tips section is hidden right now you can make it visible again by clicking on the question mark which should be located on the right side of the scripting area.\\ {{..:openTipsMenu.png}}
+  - If your tips section looks like this, you are ready to go:\\ {{..:withTips.png}}
+  - If it looks like this then select the "Getting Started with Scratch" guide.\\ {{..:selectGettingStartedGuide.PNG}}    
+  - If you have a larger monitor you should make your web browser full screen so that you can see both the tips section and the scripting area. If you have a smaller monitor you may need to toggle back and forth between showing the tips (step #4 above) and hiding the tips (click the x in the upper left corner of the tips section).
+  - Work through the steps of this Guide. Follow the directions in the beginning. 
+  - Once you have completed the Guide as written, explore some more. Modify your project to make it your own! Some things you can try:
+        * Record your own sounds.
+        * Create or use different backdrops.
+        * Turn your project into a dance party by adding even more sprites.
+        * Try desigining a new costume for your sprite
+      
+    
+
+=====Things to think about when you are done=====
+
+  *     What was surprising about this activity?
+  * How did it feel to be led step-by-step through this activity?
+  * In this activity you used **incremental development** - the strategy of building a program one small step at a time rather than doing everything at once. Why do you think incremental development is a good idea?
+  * When do you feel most creative?
+
+
+=====Sharing your project in the studio=====
+If you need to review, [[lev0:Tut_SharingInAStudio|read this page for instructions on how to share your project in a studio.]]
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/887578/|http://scratch.mit.edu/studios/887578/]]
+
+
+=====Credits=====
+This project is based on materials from the the [[http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf|Creative Computing curriculum]] by Brennan, Balch, and Chung.
+
+
+

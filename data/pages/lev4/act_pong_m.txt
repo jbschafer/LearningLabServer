@@ -1,0 +1,25 @@
+
+======Activity : Build Your Own Pong Game======
+[[lev4:act_pong_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * develop a greater fluency with computational concepts (conditionals, operators, data) and practices (experimenting and iterating, testing and debugging, reusing and remixing, abstracting and modularizing) by working on a self-directed maze game
+
+
+
+=====Things to watch for=====
+
+
+
+
+=====What to look for when reviewing their work=====
+
+This game starts with a particular pattern for all games but encourages students to pursue various options.
+   * Did they go beyond the base game to personalize it in some manner?
+   * Does the finished game include conditionals, operators, and data?
+
+
+
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/feed.php">
+        <title>Cedar Valley playground</title>
+        <description></description>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <image rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico" />
+       <dc:date>2015-05-31T22:52:24-05:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=playground:playground&amp;rev=1428712154&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=playground:projects_lev0&amp;rev=1428767809&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=playground:projects_lev1&amp;rev=1428767360&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico">
+        <title>Cedar Valley</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <url>http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=playground:playground&amp;rev=1428712154&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-10T19:29:14-05:00</dc:date>
+        <title>playground:playground</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=playground:playground&amp;rev=1428712154&amp;do=diff</link>
+        <description>PlayGround
+
+This is a hidden page designed to let users of the dojo have a page to edit for testing purposes.
+
+The following people have visited this page and attempted to edit it:
+
+	*  Ben Schafer
+	*  CVCoderDojo
+	*  John B
+
+This is a test:
+
+	*  link back to the resources page
+	*</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=playground:projects_lev0&amp;rev=1428767809&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-11T10:56:49-05:00</dc:date>
+        <title>playground:projects_lev0</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=playground:projects_lev0&amp;rev=1428767809&amp;do=diff</link>
+        <description>CV CoderDojo Ninja Projects Level 0
+
+Click on a link below to view projects from another level.
+
+	*   Level 0
+		*   Level 1
+		*   Level 2
+
+Clicking on an icon in the table will take you to that Ninja's project.
+  Scratch Surprise  Instructions  ProjectGallery Step-by-Step  Instructions  ProjectGallery Twelve Blocks  Instructions  ProjectGallery</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=playground:projects_lev1&amp;rev=1428767360&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-11T10:49:20-05:00</dc:date>
+        <title>playground:projects_lev1</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=playground:projects_lev1&amp;rev=1428767360&amp;do=diff</link>
+        <description>CV CoderDojo Ninja Projects Level 1
+
+Click on a link below to view projects from another level.
+
+	*   Level 0
+		*   Level 1
+		*   Level 2
+
+Clicking on an icon in the table will take you to that Ninja's project.
+  Initial Assignment  Instructions  ProjectGallery Getting in Shape  Instructions  ProjectGallery Build a Band</description>
+    </item>
+</rdf:RDF>

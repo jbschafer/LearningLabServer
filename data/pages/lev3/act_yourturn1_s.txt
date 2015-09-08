@@ -1,0 +1,35 @@
+
+======Activity : Your Turn, #1 ======
+**Ninja Instructions** | [[lev3:act_yourturn1_m|Mentor Notes]]
+
+=====Introduction=====
+At the end of each of the last two activities we asked you to think about things that you could do to make the program even more interactive and engaging.  In this activity you will add in a few of those ideas.
+
+=====Duration =====
+15-30 minutes
+
+
+=====Instructions=====
+
+  - Make sure you have a copy of the latest Jack and Jill story open.  (We suggest working with a copy rather than your story so that you have something to return to if you break something and want to try and fix it.)
+  - Add in at least one question which is used to change the language of the story.  For example, you might ask the user what liquid Jack and Jill are fetching ("To fetch a pail of chocolate milk!")  Work this question and it's answer into the storyline.
+  - Add in at least one question which uses a selection statement to change the direction of the story.  For example, you could
+           * ask if the story should take place in the mountains (like it does now) or on a beach and you could change the backdrop on the stage.
+           * ask what color Jill's hair is and then add some new costumes to the story so you can change her hair color
+
+You can do anything you want for these additions, but you should have at least one that is just a textual change and one that uses selection statements to make an appearance change.
+
+=====Things to think about when you are done=====
+
+  * What do you like about being able to use data and conditionals?
+  * What do you find difficult right now when using data and conditionals?
+
+
+=====Sharing your project in the studio=====
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/1021482|http://scratch.mit.edu/studios/1021482]]
+
+
+=====Credits=====
+This project is based on materials from Dr. Ben Schafer at the University of Northern Iowa

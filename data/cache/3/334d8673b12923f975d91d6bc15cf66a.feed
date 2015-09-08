@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/feed.php">
+        <title>Cedar Valley lev1</title>
+        <description></description>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <image rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico" />
+       <dc:date>2015-07-29T20:10:52-05:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_aboutme_m&amp;rev=1425662050&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_aboutme_s&amp;rev=1425663597&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_buildaband_m&amp;rev=1425662050&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_buildaband_s&amp;rev=1425663210&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_debugitone_m&amp;rev=1425662050&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_debugitone_s&amp;rev=1425663168&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_debugittwo_m&amp;rev=1425662050&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_debugittwo_s&amp;rev=1425663498&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_initials_m&amp;rev=1425662829&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_initials_s&amp;rev=1425662709&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_itsalive_m&amp;rev=1425662051&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_itsalive_s&amp;rev=1429382968&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_musicvideo_m&amp;rev=1425662051&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_musicvideo_s&amp;rev=1431800410&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_ospc_m&amp;rev=1425662051&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_ospc_s&amp;rev=1425663296&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_shapes_m&amp;rev=1425663089&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_shapes_s&amp;rev=1425663049&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico">
+        <title>Cedar Valley</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <url>http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_aboutme_m&amp;rev=1425662050&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:14:10-05:00</dc:date>
+        <title>lev1:act_aboutme_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_aboutme_m&amp;rev=1425662050&amp;do=diff</link>
+        <description>Activity : About Me
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  show a familiarity with a wide range of Scratch blocks
+	*  be able to create an open ended Scratch project that is an interactive digital representation of the student</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_aboutme_s&amp;rev=1425663597&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:39:57-05:00</dc:date>
+        <title>lev1:act_aboutme_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_aboutme_s&amp;rev=1425663597&amp;do=diff</link>
+        <description>Mastery Activity 1a : About Me!
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+How can you combine interesting images and sounds to make an interactive collage about yourself?
+This activity is longer than some of the previous ones we have done because we want you to experiment with sprites, costumes, backdrops, looks, sounds - lots of things!  You will create an interactive Scratch project that helps other members of our dojo learn more about you. What do you like to do, what are some of your…</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_buildaband_m&amp;rev=1425662050&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:14:10-05:00</dc:date>
+        <title>lev1:act_buildaband_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_buildaband_m&amp;rev=1425662050&amp;do=diff</link>
+        <description>Activity : Build A Band
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  creating a program that combines interactive sprites with interesting sounds
+	*  developing greater fluency with sequence, loops, events, and parallelism
+	*</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_buildaband_s&amp;rev=1425663210&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:33:30-05:00</dc:date>
+        <title>lev1:act_buildaband_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_buildaband_s&amp;rev=1425663210&amp;do=diff</link>
+        <description>Activity : Build a Band (Exploring Sound)
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+How can you utilize Scratch to create sounds, instruments, bands, or styles of music that represent the music that you love the most?
+In this activity, you will build your own music inspired Scratch project by pairing strips with sounds to design interactive instruments.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_debugitone_m&amp;rev=1425662050&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:14:10-05:00</dc:date>
+        <title>lev1:act_debugitone_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_debugitone_m&amp;rev=1425662050&amp;do=diff</link>
+        <description>Activity : Debug It #1
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  investigate the problem and find a solution to five debugging challenges
+	*  explore a range of concepts (including sequence) through the practices of testing and debugging</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_debugitone_s&amp;rev=1425663168&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:32:48-05:00</dc:date>
+        <title>lev1:act_debugitone_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_debugitone_s&amp;rev=1425663168&amp;do=diff</link>
+        <description>Activity : Debug It #1
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+One of the more important skills to have as a programmer is the ability to read and fix other people's code. In this activity you will study five programs that don't work the way that the programmer wanted them to. You will see what you can do to fix them.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_debugittwo_m&amp;rev=1425662050&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:14:10-05:00</dc:date>
+        <title>lev1:act_debugittwo_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_debugittwo_m&amp;rev=1425662050&amp;do=diff</link>
+        <description>Activity : Debug It #2
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  investigate the problem and find a solution to five debugging challenges
+	*  explore a range of concepts (including sequence and loops) through the practices of testing and debugging</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_debugittwo_s&amp;rev=1425663498&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:38:18-05:00</dc:date>
+        <title>lev1:act_debugittwo_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_debugittwo_s&amp;rev=1425663498&amp;do=diff</link>
+        <description>Activity : Debug It #2
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+One of the more important skills to have as a programmer is the ability to read and fix other people's code. In this activity you will study five programs that don't work the way that the programmer wanted them to. You will see what you can do to fix them.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_initials_m&amp;rev=1425662829&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:27:09-05:00</dc:date>
+        <title>lev1:act_initials_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_initials_m&amp;rev=1425662829&amp;do=diff</link>
+        <description>Activity : Initials
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  exploring coordinate based (absolute) movement in Scratch
+	*  creating an image using pen-based, logo-like movement
+
+Things to watch for
+
+	*  This activity is somewhat mathematical and requires an understanding of general coordinate systems.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_initials_s&amp;rev=1425662709&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:25:09-05:00</dc:date>
+        <title>lev1:act_initials_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_initials_s&amp;rev=1425662709&amp;do=diff</link>
+        <description>Activity : Initials
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+Let's see if you can use the Pen feature of Scratch to program the computer to draw out your initials. For example, if I were to do my initials (JBS) I might end up with   something like the following:</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_itsalive_m&amp;rev=1425662051&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:14:11-05:00</dc:date>
+        <title>lev1:act_itsalive_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_itsalive_m&amp;rev=1425662051&amp;do=diff</link>
+        <description>Activity : It's Alive
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  becoming more familiar with the computational concepts of sequence and loops by experimenting with Control blocks
+	*  becoming able to explain the difference between sprites and costumes</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_itsalive_s&amp;rev=1429382968&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-18T13:49:28-05:00</dc:date>
+        <title>lev1:act_itsalive_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_itsalive_s&amp;rev=1429382968&amp;do=diff</link>
+        <description>Activity : It's Alive
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+How can you take an image or a photo and make it come alive?
+
+
+Duration
+
+30-45 minutes
+
+Instructions
+
+	*  Choose one of the built in sprites from scratch.
+
+	*  Click from the Scripts tab to the Costumes tab and make sure it has more than one costume.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_musicvideo_m&amp;rev=1425662051&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:14:11-05:00</dc:date>
+        <title>lev1:act_musicvideo_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_musicvideo_m&amp;rev=1425662051&amp;do=diff</link>
+        <description>Activity : Music Video
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  be able to create a project the combines multiple aspects of animation and music by working on a self-directed video project
+	*  gain more familiarity with sprites, costumes, and sounds</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_musicvideo_s&amp;rev=1431800410&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-05-16T13:20:10-05:00</dc:date>
+        <title>lev1:act_musicvideo_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_musicvideo_s&amp;rev=1431800410&amp;do=diff</link>
+        <description>Mastery Activity 1b : Music Video
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+How can you combine animation with music to create your own Scratch-inspired music video?
+This activity is longer than some of the previous ones we have done because we want you to experiment with sprites, costumes, backdrops, looks, sounds - lots of things!  You will create a program inspired by theatre, song, dance, music, drawing, illustration, photography, and animation to create a personalized music video.
+T…</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_ospc_m&amp;rev=1425662051&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:14:11-05:00</dc:date>
+        <title>lev1:act_ospc_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_ospc_m&amp;rev=1425662051&amp;do=diff</link>
+        <description>Activity : Orange Square, Purple Circle
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  allowing students to express their creativity by completing an arts-themed challenge
+	*  gain more fluency with Looks blocks and the paint editor</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_ospc_s&amp;rev=1425663296&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:34:56-05:00</dc:date>
+        <title>lev1:act_ospc_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_ospc_s&amp;rev=1425663296&amp;do=diff</link>
+        <description>Activity : Orange Square, Purple Circle
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+What project can you create that includes an orange square and a purple circle
+  
+
+Duration
+
+30-45 minutes
+
+Instructions
+
+	*  In addition to Scratch cat, create  a new orange square sprite using the paint editor</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_shapes_m&amp;rev=1425663089&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:31:29-05:00</dc:date>
+        <title>lev1:act_shapes_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_shapes_m&amp;rev=1425663089&amp;do=diff</link>
+        <description>Activity : Shapes
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  exploring direction based (relative) movement in Scratch
+	*  creating an image using pen-based, logo-like movement
+
+Things to watch for
+
+	*  This activity is very mathematical at times and can be confusing.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_shapes_s&amp;rev=1425663049&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:30:49-05:00</dc:date>
+        <title>lev1:act_shapes_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev1:act_shapes_s&amp;rev=1425663049&amp;do=diff</link>
+        <description>Activity : Getting in Shape
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+Let's see if you can use the Pen feature of Scratch to program the computer to draw out several polygons. 
+While this activity can be completed using coordinate based movement, we would like you explore direction based movement.</description>
+    </item>
+</rdf:RDF>

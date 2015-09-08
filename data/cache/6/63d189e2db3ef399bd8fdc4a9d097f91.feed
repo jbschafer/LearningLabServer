@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/feed.php">
+        <title>Cedar Valley lev4</title>
+        <description></description>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <image rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico" />
+       <dc:date>2015-07-29T17:25:25-05:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_brainstorm_m&amp;rev=1426018859&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_brainstorm_s&amp;rev=1426018659&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_debugitfour_m&amp;rev=1428944634&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_debugitfour_s&amp;rev=1428944540&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_dreamgame_s&amp;rev=1428945106&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_extensions_s&amp;rev=1428943123&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_gameexploration_s&amp;rev=1428938546&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_interactions_s&amp;rev=1428943003&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_maze_m&amp;rev=1426020897&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_maze_s&amp;rev=1426022397&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_pong_m&amp;rev=1426084227&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_pong_s&amp;rev=1426085382&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_score_m&amp;rev=1428940596&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_score_s&amp;rev=1428940435&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_scrolling_m&amp;rev=1426085971&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_scrolling_s&amp;rev=1426085328&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico">
+        <title>Cedar Valley</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <url>http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_brainstorm_m&amp;rev=1426018859&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-10T15:20:59-05:00</dc:date>
+        <title>lev4:act_brainstorm_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_brainstorm_m&amp;rev=1426018859&amp;do=diff</link>
+        <description>Activity : Dream Game Brainstorm
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  identifying common design elements of games
+
+Things to watch for
+
+	*  Do the dream game lists include features of games?
+
+What to look for when reviewing their work</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_brainstorm_s&amp;rev=1426018659&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-10T15:17:39-05:00</dc:date>
+        <title>lev4:act_brainstorm_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_brainstorm_s&amp;rev=1426018659&amp;do=diff</link>
+        <description>Activity : Dream Game Brainstorm
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+This activity doesn't actually involve programming.  Instead, it is just a reflection activity to get you to think about games (both online and offline).
+
+Duration
+
+15-30 minutes</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_debugitfour_m&amp;rev=1428944634&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-13T12:03:54-05:00</dc:date>
+        <title>lev4:act_debugitfour_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_debugitfour_m&amp;rev=1428944634&amp;do=diff</link>
+        <description>Activity : Debug It #4
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  investigate the problem and find a solution to five debugging challenges
+	*  explore a range of concepts (including conditionals, operators, and data) through the practices of testing and debugging</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_debugitfour_s&amp;rev=1428944540&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-13T12:02:20-05:00</dc:date>
+        <title>lev4:act_debugitfour_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_debugitfour_s&amp;rev=1428944540&amp;do=diff</link>
+        <description>Activity : Debug It #4
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+One of the more important skills to have as a programmer is the ability to read and fix other people's code. In this activity you will investigate what is going awry and find a solution for each of the five Debut It! challenges.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_dreamgame_s&amp;rev=1428945106&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-13T12:11:46-05:00</dc:date>
+        <title>lev4:act_dreamgame_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_dreamgame_s&amp;rev=1428945106&amp;do=diff</link>
+        <description>Mastery Activity : Choose Your Own Adventure
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+You started this level by brainstorming what makes a game a game and what things you liked about games.
+
+In the activities for this level you looked at several features:</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_extensions_s&amp;rev=1428943123&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-13T11:38:43-05:00</dc:date>
+        <title>lev4:act_extensions_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_extensions_s&amp;rev=1428943123&amp;do=diff</link>
+        <description>Activity : Extending your Games
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+How can you extend and re-imagine games in scratch?
+
+Games have a LOT of places where you can add small features that make them better.  Get into game design by adding extended features within one of you Scratch projects.  Choose at least one (or more!) of the following extensions and add it to your previously started made, pong, scrolling, or fish chomp games.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_gameexploration_s&amp;rev=1428938546&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-13T10:22:26-05:00</dc:date>
+        <title>lev4:act_gameexploration_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_gameexploration_s&amp;rev=1428938546&amp;do=diff</link>
+        <description>Activity : Game Exploration
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+This activity doesn't actually involve programming.  Instead, it is just a reflection activity to get you to think about games (both online and offline).
+
+One good way to get a feel for all the different ways that things can be done is to look at a bunch of existing programs and see how they work - to answer the question</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_interactions_s&amp;rev=1428943003&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-13T11:36:43-05:00</dc:date>
+        <title>lev4:act_interactions_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_interactions_s&amp;rev=1428943003&amp;do=diff</link>
+        <description>Activity : Interaction Puzzles
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+What differentiates a Scratch Project from a still image or a video
+
+Tackle these nine puzzles that engage some of the more advanced concepts in Scratcdh realted to interactivity.  Each of these challenges has several possible solutions.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_maze_m&amp;rev=1426020897&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-10T15:54:57-05:00</dc:date>
+        <title>lev4:act_maze_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_maze_m&amp;rev=1426020897&amp;do=diff</link>
+        <description>Activity : Build Your Own Maze Game
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  develop a greater fluency with computational concepts (conditionals, operators, data) and practices (experimenting and iterating, testing and debugging, reusing and remixing, abstracting and modularizing) by working on a self-directed maze game</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_maze_s&amp;rev=1426022397&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-10T16:19:57-05:00</dc:date>
+        <title>lev4:act_maze_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_maze_s&amp;rev=1426022397&amp;do=diff</link>
+        <description>Activity : Build Your Own Maze Game
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+In this activity you will create a basic maze game.
+
+Duration
+
+15-30 minutes
+
+Instructions
+
+	*  Open up a new program area in Scratch or begin by remixing our Maze Starter program.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_pong_m&amp;rev=1426084227&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-11T09:30:27-05:00</dc:date>
+        <title>lev4:act_pong_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_pong_m&amp;rev=1426084227&amp;do=diff</link>
+        <description>Activity : Build Your Own Pong Game
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  develop a greater fluency with computational concepts (conditionals, operators, data) and practices (experimenting and iterating, testing and debugging, reusing and remixing, abstracting and modularizing) by working on a self-directed maze game</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_pong_s&amp;rev=1426085382&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-11T09:49:42-05:00</dc:date>
+        <title>lev4:act_pong_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_pong_s&amp;rev=1426085382&amp;do=diff</link>
+        <description>Activity : Build Your Own Pong Game
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+In this activity you will create a basic pong game.
+
+Duration
+
+15-30 minutes
+
+Instructions
+
+	*  Open up a new program area in Scratch or begin by remixing our Pong Starter program.
+	*  If you are creating this program completely on your own:</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_score_m&amp;rev=1428940596&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-13T10:56:36-05:00</dc:date>
+        <title>lev4:act_score_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_score_m&amp;rev=1428940596&amp;do=diff</link>
+        <description>Activity : Keeping Score
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  be able to describe what a variable is and why variables are useful.
+	*  be introduced to the computational concept of data
+	*  experience remixing and reusing a project or part of a project.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_score_s&amp;rev=1428940435&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-13T10:53:55-05:00</dc:date>
+        <title>lev4:act_score_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_score_s&amp;rev=1428940435&amp;do=diff</link>
+        <description>Activity : Keeping Score
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+Lots of the games you have looked at have had good interaction, but you want to be able to keep score so that you can brag to your friends at how awesome you are at playing this game.  This activity adds in score keeping.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_scrolling_m&amp;rev=1426085971&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-11T09:59:31-05:00</dc:date>
+        <title>lev4:act_scrolling_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_scrolling_m&amp;rev=1426085971&amp;do=diff</link>
+        <description>Activity : Build Your Own Side Scrolling Game
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  develop a greater fluency with computational concepts (conditionals, operators, data) and practices (experimenting and iterating, testing and debugging, reusing and remixing, abstracting and modularizing) by working on a self-directed maze game</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_scrolling_s&amp;rev=1426085328&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-11T09:48:48-05:00</dc:date>
+        <title>lev4:act_scrolling_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev4:act_scrolling_s&amp;rev=1426085328&amp;do=diff</link>
+        <description>Activity : Build Your Own Scrolling Game
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+In this activity you will create a basic side scrolling game.
+
+Duration
+
+15-30 minutes
+
+Instructions
+
+	*  Open up a new program area in Scratch or begin by remixing our Scrolling Starter program.</description>
+    </item>
+</rdf:RDF>

@@ -1,0 +1,47 @@
+
+======Activity : Step-by-Step======
+[[lev0:Act_StepByStep_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity is to have the ninjas create  a simple program while giving them an opportunity to see:
+
+  * movement
+  * sound
+  * repetition
+  * speaking
+  * colors
+  * key press events
+  * backgrounds
+  * adding sprites
+
+The activity is very cookbook in the beginning, but the goal is that they see a lot of the potential in Scratch. They are encouraged to explore once they complete the basics.
+
+While it isn't a huge discussion point, this activity also models the concept of **incremental development** - that is, the process of building a larger program in small, manageable steps, testing between each step to make sure it is doing what we want it to do.
+
+
+
+=====Things to watch for=====
+
+  * It is probably a good idea to have the ninjas complete the first 12 steps as written first. Only after that should they deviate significantly. While exploration and customization is STRONGLY enocuraged overall, we want to make sure that they don't make such a significant change in an earlier step such that a later step won't work.
+  * Even though this is very cookbook in the beginning, as always, encourage discussion between neighbors. We want to foster a community of "How did you do that!"
+
+
+
+=====What to look for when reviewing their work=====
+
+  * Were the ninjas able to open Scratch and find the Tips section?
+  * Were they able to create a dancing cat?
+  * Were they able to save and share their project?
+  * Ask them about incremental development?
+
+
+=====Ways to extend this activity=====
+
+  * Challenge the student to do more. Play with adding new blocks, sounds, motion, etc. Once they have the basics down they should feel comfortable exploring new blocks.
+  * The "Music and Dance" theme in the sprite library has a number of great characters with multiple dance moves. Have them revisit step #10 in the guide and add additional sprites.
+
+
+
+
+
+

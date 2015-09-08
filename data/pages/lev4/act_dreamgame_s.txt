@@ -1,0 +1,38 @@
+
+======Mastery Activity : Choose Your Own Adventure ======
+**Ninja Instructions** | [[lev4:act_dreamgame_m|Mentor Notes]]
+
+=====Introduction=====
+
+You started this level by brainstorming what makes a game a game and what things you liked about games.
+
+In the activities for this level you looked at several features:
+
+  * Using keyboard and mouse actions to control a character on the screen
+  * Using data/variables to keep track of information needed to control a game and make it interesting.
+  * Techniques common to a wide variety of games to extend the way the game is played/controlled.
+
+
+In this activity, you will use some of these features to create a game of your choice.
+
+=====Duration =====
+60 minutes
+
+
+=====Instructions=====
+
+Let's face it.  By this point in the work you probably have lots of ideas for a game that you would like to create.  
+
+SO DO IT!
+
+There are no specialized instructions for this activity.  You should put it all out there and show your peers that you learned something in this level.  Push yourself and see what you can come up with to make a game you are proud of.
+
+
+=====Sharing your project in the studio=====
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/1126916|http://scratch.mit.edu/studios/1126916]]
+
+
+=====Credits=====
+This project is based on materials from Dr. Ben Schafer at the University of Northern Iowa.

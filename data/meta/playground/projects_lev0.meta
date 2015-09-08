@@ -1,0 +1,10 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1428767445;s:8:"modified";i:1428767809;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:35:"CV CoderDojo Ninja Projects Level 0";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:35:"cv_coderdojo_ninja_projects_level_0";s:5:"title";s:35:"CV CoderDojo Ninja Projects Level 0";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:346:"CV CoderDojo Ninja Projects Level 0
+
+Click on a link below to view projects from another level.
+
+	*   Level 0
+		*   Level 1
+		*   Level 2
+
+Clicking on an icon in the table will take you to that Ninja's project.
+  Scratch Surprise  Instructions  ProjectGallery Step-by-Step  Instructions  ProjectGallery Twelve Blocks  Instructions  ProjectGallery";}s:8:"relation";a:3:{s:10:"references";a:6:{s:28:"playground:projects_lev0.txt";b:0;s:28:"playground:projects_lev1.txt";b:0;s:28:"playground:projects_lev2.txt";b:0;s:26:"lev0:act_scratchsurprise_s";b:1;s:21:"lev0:act_stepbystep_s";b:1;s:23:"lev0:act_twelveblocks_s";b:1;}s:5:"media";a:3:{s:22:"playground:new_app.png";b:0;s:20:"playground:blank.png";b:0;s:24:"playground:new_unapp.png";b:0;}s:10:"firstimage";s:22:"playground:new_app.png";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1428767445;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

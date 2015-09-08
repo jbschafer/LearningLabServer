@@ -1,0 +1,31 @@
+
+======Activity : It's Alive======
+[[lev1:Act_ItsAlive_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * becoming more familiar with the computational concepts of sequence and loops by experimenting with Control blocks
+  * becoming able to explain the difference between sprites and costumes
+  * practice experimenting and iterating through developing an animation project
+
+
+
+=====Things to watch for=====
+
+  * This will be a project students may be tempted to pound out in just a few minutes and "submit for credit." Try to encourage exploration and creativity.
+  * The difference between sprites and costumes is often a source of confusion for Scratchers. The metaphor of actors wearing multiple costumes can help clarify the difference.
+  * Students can animate themselves using a camera or webcam.
+
+
+=====What to look for when reviewing their work=====
+
+  * Can students distinguish between sprites and costumes?
+  * Some Scratchers are particularly art focused and will want to develop animation projects and prefer to spend their time drawing and designing sprites/costumes, etc. Try to engage students in both the aesthetic but also the technical aspects of this project
+
+
+
+
+
+
+

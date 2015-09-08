@@ -1,0 +1,58 @@
+====== Glossary ======
+Vocabulary words in this glossary include both general computer science terms and language specific terms such as those used in Scratch. Many of the Scratch terms contain links to more information on the Scratch website. (For additional Scratch specific terms check out [[http://wiki.scratch.mit.edu/wiki/Scratch_Terms_Glossary|http://wiki.scratch.mit.edu/wiki/Scratch_Terms_Glossary)]]
+
+  * **abstraction** - Pulling	out	specific	differences	to	make	one	solution	work	for	multiple	problems.
+  * **actor** - A term used to refer to sprites and the role they playas they interact with one another on the stage.
+  * **algorithm** - A list	of	steps	to	finish	a	task.	A	set	of	instructions	that	can	be	performed	with	or	without	a	computer.	For	example, the	collection	of	steps	to	make	a	peanut	butter	and	jelly	sandwich	is	an	algorithm.
+  * **[[http://wiki.scratch.mit.edu/wiki/Animation_Projects|animation]]** - Project that animates something
+  * **[[http://wiki.scratch.mit.edu/wiki/Answer_(value)|answer]]** — A value which holds what has been input into the [[http://wiki.scratch.mit.edu/wiki/Ask_()_and_Wait_(block)|Ask block]]
+  * **binary** -     A	way	of	representing	information	using	only	two	options.
+  * **boolean** -   A term used to represent data that has either of two values, true or false.   
+  * **[[http://wiki.scratch.mit.edu/wiki/Blocks|blocks]]** - Blocks make up [[http://wiki.scratch.mit.edu/wiki/Script|scripts]], which make a [[http://wiki.scratch.mit.edu/wiki/Project|project]] work
+  * **[[http://wiki.scratch.mit.edu/wiki/Boolean_Block|boolean block]]** - A conditional block that reports a statement to be true or false
+  * **[[http://wiki.scratch.mit.edu/wiki/Broadcast|broadcast]]** - A message that is sent through the Scratch program, activating [[http://wiki.scratch.mit.edu/wiki/When_I_Receive_()_(block)|When I Receive () blocks]]
+  * **bug** - An	error	in	a	program	that	prevents	the	program	from	running	as	expected.
+  * **[[http://wiki.scratch.mit.edu/wiki/C_Block|C Block]]** - A block that fits [[http://wiki.scratch.mit.edu/wiki/Stack_Block|stack blocks]] inside it
+  * **code** - One	or	more	commands	or	algorithm(s)	designed	to	be	carried	out	by	a	computer.	See	Program.	
+  * **command** - An	instruction	for	the	computer.	Many	commands	put	together	make	up	algorithms	and	computer	programs.
+  * **computational	thinking** - Mental	processes	and	strategies	that	include:	decomposition,	pattern	matching,	abstraction,	algorithms     (decomposing	problems	into	smaller,	more	manageable	problems,	finding	repeating	patterns,	abstracting	specific differences	to	make	one	solution	work	for	multiple	problems,	and	creating	step-by-step	algorithms).
+  * **computer	science** - A	field	in	which	people	use	the	power	of	computers	to	solve	big	problems.	
+  * **conditionals** - Statements	that	only	run	under	certain	conditions	or	situations.
+  * **[[http://wiki.scratch.mit.edu/wiki/Control_Block|control Block]]** - A block that either starts a script or keeps a script running. See Also: [[http://wiki.scratch.mit.edu/wiki/Scratch_Terms_Glossary#T">|Trigger Block]]
+  * **crowdsourcing** - Getting	help	from	a	large	group	of	people	to	finish	something	faster.	
+  * **data** - Quantities,	characters,	or	symbols	that	are	the	inputs	and	outputs	of	computer	programs. Data is often collected, stored, modified, and processed when a program is executed.
+  * **debugging** - Finding	and	fixing	errors	in	programs.	
+  * **decompose** - Break	a	problem	down	into	smaller	pieces.	addresses.
+  * **digital	citizen** - Someone	who	acts	safely,	responsibly,	and	respectfully	online.	
+  * **digital	footprint** - The	information	about	someone	on	the	Internet.	
+  * **[[http://wiki.scratch.mit.edu/wiki/Direction_(value)|>direction]]** -   Where a sprite is pointing
+  * **event** -   An	action	that	causes	something	to	happen.	
+  * **event-handler** -     An	action	or	event	that	is	being	constantly	monitored	for	by	the	computer.	When	you	write	code	for	the	computer	to perform	after	that	an	action	occurs,	that	code,	the	event-handler,	will	run	every	time	the	action	is	performed	without having	to	put	the	commands	inside	of	a	loop.	Many	event-handlers	are	human-initiated.	For	example:	an	event handler	might	respond	when	the	user	clicks	the	mouse	by	making	the	bird	flap	its	wings.	&quot;When	the	mouse	is clicked&quot;	is	an	event-handler.	
+  * **[[http://wiki.scratch.mit.edu/wiki/Forever_(block)|forever]]** - A function in Scratch that repeats a set of code forever, done by the Forever block.
+  * **function** - A	piece	of	code	that	you	can	easily	call	over	and	over	again.	Functions	are	sometimes	called	‘procedures.’	A function	definition	is	a	segment	of	code	that	includes	the	steps	performed	in	the	function.	A	function	call	is	the code	segment,	typically	within	the	main	logic	of	the	program,	which	invokes	the	function.	
+  * **[[http://wiki.scratch.mit.edu/wiki/Gobo|gobo]]** -   A popular Scratch mascot
+  * **[[http://wiki.scratch.mit.edu/wiki/Green_Flag|green flag]]** - Sometimes simply called the 'flag,' this is what starts most projects' scripts running
+  * **[[http://wiki.scratch.mit.edu/wiki/Hat_Block|hat block]]** - A block that starts any event-driven script in Scratch.
+  * **incremental development** - The strategy of building a program one small step at a time rather than doing everything at once. 
+  * **iteration** - A	repetitive	action	or	command	typically	created	with	programming	loops.	
+  * **[[http://wiki.scratch.mit.edu/wiki/List|list]]** - Called an 'array' in most programming languages, this holds lots of [[http://wiki.scratch.mit.edu/wiki/String|strings]]
+  * **[[http://wiki.scratch.mit.edu/wiki/List_Blocks|list block]]** - A block which controls a list
+  * **[[http://wiki.scratch.mit.edu/wiki/Looks_Blocks|looks block]]** - A block which controls how a sprite or the stage looks
+  * **loop** - The	action	of	doing	something	over	and	over	again. 
+  * **[[http://wiki.scratch.mit.edu/wiki/Motion_Blocks|motion block]]** - A block which controls a sprite's movement
+  * **[[http://wiki.scratch.mit.edu/wiki/Operators_Blocks|operator block]]** - A block that performs math functions and string handling
+  * **[[http://wiki.scratch.mit.edu/wiki/Pen_Blocks|pen block]]** - A block which controls the pen
+  * **persistence** - Trying	again	and	again,	even	when	something	is	very	hard. 
+  * **program** - A	program	is	an	algorithm	that	has	been	coded	into	something	that	can	be	run	by	a	machine.	
+  * **[[http://wiki.scratch.mit.edu/wiki/Remix|remix]]**  - A [[http://wiki.scratch.mit.edu/wiki/Project|project]] created by downloading, modifying, and re-uploading another project
+  * **run	program** - To	have	the	computer	execute	the	commands	you've	written	in	your	program.run	
+  * **[[http://wiki.scratch.mit.edu/wiki/Scratch_Cat|cratch cat]]** - Scratch's mascot and default [[http://wiki.scratch.mit.edu/wiki/Sprite|sprite]].  See [[http://wiki.scratch.mit.edu/wiki/Scratch_Terms_Glossary#G">Gobo]].
+  * **scripting area** -   The area on the right side of the Scratch create screen where code can be written. Both sprites and the stage contain a scripting area.
+  * **[[http://wiki.scratch.mit.edu/wiki/Sensing_Blocks|sensing block]]** - A block that detects something, from a sound from a microphone to whether a sprite is touching a certain color
+  * **[[http://wiki.scratch.mit.edu/wiki/Sound_Blocks|sound block]]** - A block which controls either a [[http://wiki.scratch.mit.edu/wiki/MIDI_Notes|MIDI Instrument]] or sound
+  * **[[http://wiki.scratch.mit.edu/wiki/Sprite|sprite]]** - An object in Scratch which performs functions controlled by scripts
+  * **sprite list** -  The area of the Scratch create screen where icons for each of the sprites in the program are &quot;stored&quot; for easy selection of different sprites.  Located below the stage.  
+  * **[[http://wiki.scratch.mit.edu/wiki/Stage|stage]]** - The background of a project, performs functions through scripting. Present at the right hand side of the Scratch create screen.
+  * **[[http://wiki.scratch.mit.edu/wiki/String|string]]** - A series of keyboard characters, which can be help in reporter blocks, variables or lists
+  * **[[http://wiki.scratch.mit.edu/wiki/Studio|studio]]** - A place where users can place multiple projects into an accessible group
+  * **variable** -     A	placeholder	for	a	piece	of	information	that	can	change.

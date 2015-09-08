@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/feed.php">
+        <title>Cedar Valley lev2</title>
+        <description></description>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <image rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico" />
+       <dc:date>2015-07-16T13:34:39-05:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_crazyscene_m&amp;rev=1425663785&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_crazyscene_s&amp;rev=1425664105&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_debugitthree_m&amp;rev=1425663785&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_debugitthree_s&amp;rev=1425664171&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_hpremix_m&amp;rev=1425663785&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_hpremix_s&amp;rev=1425664228&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_knockknockv1_m&amp;rev=1425663785&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_knockknockv1_s&amp;rev=1425999848&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_knockknockv2_m&amp;rev=1425663785&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_knockknockv2_s&amp;rev=1425664068&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_nurseryrhyme_s&amp;rev=1425664449&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_otherremix_m&amp;rev=1425663785&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_otherremix_s&amp;rev=1425664272&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_sceneit_s&amp;rev=1425664540&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico">
+        <title>Cedar Valley</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <url>http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_crazyscene_m&amp;rev=1425663785&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:43:05-05:00</dc:date>
+        <title>lev2:act_crazyscene_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_crazyscene_m&amp;rev=1425663785&amp;do=diff</link>
+        <description>Activity : Crazy Scene
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  being able to create a project that experiments with changing backdrops, like a story with multiple scenes or a slideshow.
+	*  gain more familiarity with the computational concepts of events and parallelism and the practice of experimenting and iterating</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_crazyscene_s&amp;rev=1425664105&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:48:25-05:00</dc:date>
+        <title>lev2:act_crazyscene_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_crazyscene_s&amp;rev=1425664105&amp;do=diff</link>
+        <description>Activity : It's a Crazy Scene (Exploring the Stage and backdrops)
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+One of the things that you may have noticed in previous activities is that you can actually write code associated with the stage. You can even change the backdrop like you would costumes with sprites.
+In this activity you will look at the difference between the stage and sprites. You will create a project that experiments with backdrops like a story with multiple scenes or a slides…</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_debugitthree_m&amp;rev=1425663785&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:43:05-05:00</dc:date>
+        <title>lev2:act_debugitthree_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_debugitthree_m&amp;rev=1425663785&amp;do=diff</link>
+        <description>Activity : Debug It #3
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  investigate the problem and find a solution to five debugging challenges
+	*  explore a range of concepts (including events and parallelism) through the practices of testing and debugging</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_debugitthree_s&amp;rev=1425664171&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:49:31-05:00</dc:date>
+        <title>lev2:act_debugitthree_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_debugitthree_s&amp;rev=1425664171&amp;do=diff</link>
+        <description>Activity : Debug It #3
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+One of the more important skills to have as a programmer is the ability to read and fix other people's code. In this activity you will study five programs that don't work the way that the programmer wanted them to. You will see what you can do to fix them.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_hpremix_m&amp;rev=1425663785&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:43:05-05:00</dc:date>
+        <title>lev2:act_hpremix_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_hpremix_m&amp;rev=1425663785&amp;do=diff</link>
+        <description>Activity : Harry Potter Remix
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  utilize at least one of two different strategies for synchronizing interactions between sprites
+	*  practice the skills of reusing and remixing
+	*  provide an open-ended but framed opportunity to work with storytelling</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_hpremix_s&amp;rev=1425664228&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:50:28-05:00</dc:date>
+        <title>lev2:act_hpremix_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_hpremix_s&amp;rev=1425664228&amp;do=diff</link>
+        <description>Activity : This would be so much better if... (Harry Potter Remix)
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+Now that you have learned a little bit about how stories and animations can be built using timing, broadcast messages, and the stage, let's work on some projects that have you create a story. For this activity you will  remix an existing project based on a scene from Harry Potter (Don't worry if you don't know the Harry Potter series. It won't really matter). You will have some fr…</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_knockknockv1_m&amp;rev=1425663785&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:43:05-05:00</dc:date>
+        <title>lev2:act_knockknockv1_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_knockknockv1_m&amp;rev=1425663785&amp;do=diff</link>
+        <description>Activity : Knock Knock Joke, Version 1
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  exploring the first of two different strategies for synchronizing interactions between sprites - timing.
+	*  developing a greater familiarity with the computational concept of events and parallelism</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_knockknockv1_s&amp;rev=1425999848&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-10T10:04:08-05:00</dc:date>
+        <title>lev2:act_knockknockv1_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_knockknockv1_s&amp;rev=1425999848&amp;do=diff</link>
+        <description>Activity : Knock Knock Joke, version 1
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+One of the powerful things you can do with Scratch it use it to tell stories. One of the challenges of programming Scratch to tell stories is to coordinate actions between the different sprites and even the stage. In this activity you will work with some existing code to see how we can use careful timing to tell a silly knock knock joke.
+When put together with</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_knockknockv2_m&amp;rev=1425663785&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:43:05-05:00</dc:date>
+        <title>lev2:act_knockknockv2_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_knockknockv2_m&amp;rev=1425663785&amp;do=diff</link>
+        <description>Activity : Knock Knock Joke, Version 2
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  exploring the second of two different strategies for synchronizing interactions between sprites - broadcasting
+	*  developing a greater familiarity with the computational concept of events and parallelism</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_knockknockv2_s&amp;rev=1425664068&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:47:48-05:00</dc:date>
+        <title>lev2:act_knockknockv2_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_knockknockv2_s&amp;rev=1425664068&amp;do=diff</link>
+        <description>Activity : Knock Knock Joke, version 2
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+This activity will make more sense if you first complete Knock Knock Joke, version 1
+When put together with Knock Knock Joke, version 1 this pair of activities will explore different ways to program sprites to have conversations. You will experiment with timing and explore using broadcasts while making changes to a SILLY knock knock joke.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_nurseryrhyme_s&amp;rev=1425664449&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:54:09-05:00</dc:date>
+        <title>lev2:act_nurseryrhyme_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_nurseryrhyme_s&amp;rev=1425664449&amp;do=diff</link>
+        <description>Mastery Activity 2a : Nursery Rhyme
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+What would have happened if Mother Goose knew about Scratch? 
+For this activity you should use Scratch to animate a short story that has some movement in the story line.  One of the quickest things that comes to mind is using a nursery rhyme such as:</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_otherremix_m&amp;rev=1425663785&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:43:05-05:00</dc:date>
+        <title>lev2:act_otherremix_m</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_otherremix_m&amp;rev=1425663785&amp;do=diff</link>
+        <description>Activity : Another Remix
+
+Ninja Instructions |  Mentor Notes
+
+Purpose
+
+The goals of this activity include:
+
+	*  utilize at least one of two different strategies for synchronizing interactions between sprites
+	*  practice the skills of reusing and remixing
+	*  provide an open-ended but framed opportunity to work with storytelling</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_otherremix_s&amp;rev=1425664272&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:51:12-05:00</dc:date>
+        <title>lev2:act_otherremix_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_otherremix_s&amp;rev=1425664272&amp;do=diff</link>
+        <description>Activity : This would be so much better if... (Other Story Remix)
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+Now that you have learned a little bit about how stories and animations can be built using timing, broadcast messages, and the stage, let's work on some projects that have you create a story. For this activity you will still remix an existing project but you will get to choose what that original story is. You will have some freedom to go just about any direction you want to go, but…</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_sceneit_s&amp;rev=1425664540&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-06T11:55:40-05:00</dc:date>
+        <title>lev2:act_sceneit_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev2:act_sceneit_s&amp;rev=1425664540&amp;do=diff</link>
+        <description>Mastery Activity 2b : Scene It
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+The last mastery activity asked you to focus on a nursery rhyme. In this activity you can follow the exact same set of guidelines, but you can animate a scene from your favorite TV show or movie. Or if you prefer, a scene from your favorite book. It's all about the power of using Scratch to allow you to be creative!
+To get some ideas you can check out:</description>
+    </item>
+</rdf:RDF>

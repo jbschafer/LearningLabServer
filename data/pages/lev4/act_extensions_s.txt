@@ -1,0 +1,46 @@
+
+======Activity : Extending your Games ======
+**Ninja Instructions** | [[lev4:act_extensions_m|Mentor Notes]]
+
+=====Introduction=====
+How can you extend and re-imagine games in scratch?
+
+Games have a LOT of places where you can add small features that make them better.  Get into game design by adding extended features within one of you Scratch projects.  Choose at least one (or more!) of the following extensions and add it to your previously started made, pong, scrolling, or fish chomp games.
+
+
+=====Duration =====
+30-45 minutes each
+
+=====Instructions=====
+  - Go to the Extensions studio: \\ [[http://scratch.mit.edu/studios/475619|http://scratch.mit.edu/studios/475619]]
+  - Choose one or more of the following extensions to explore.
+  - Incorporate your choice into your previously started game projects.
+
+Extension projects:
+     - **Score** [[http://scratch.mit.edu/projects/1940443|http://scratch.mit.edu/projects/1940443]] \\  Demonstrates how to set and change a score.  Receive 10 points every time the scratch cat is clicked. \\  \\ 
+     - **Levels** [[http://scratch.mit.edu/projects/1940453|http://scratch.mit.edu/projects/1940453]] \\   Demonstrates how to change levels.  Score increases by 1 every time the space bar is pressed.  Level increases by 1 for every 10 points.  \\  \\ 
+     - **Timer** [[http://scratch.mit.edu/projects/1940445|http://scratch.mit.edu/projects/1940445]] \\   Demonstrates how to use a timer.  Use the mouse to navigate Scratch cat to Gobo. \\  \\ 
+     - **Enemies** [[http://scratch.mit.edu/projects/1940450|http://scratch.mit.edu/projects/1940450]] \\   Demonstrates how to add an enemy.  Avoid the tennis ball by using the up and down arrow keys. \\  \\ 
+     - **Rewards** [[http://scratch.mit.edu/projects/1940456|http://scratch.mit.edu/projects/1940456]] \\   Demonstrates how to collect items.  Use the arrow keys to move the Scratch cat around to collect quest items. \\  \\ 
+     - **Mouse** [[http://scratch.mit.edu/projects/25192659|http://scratch.mit.edu/projects/25192659]] \\   Demonstrates how to program the mouse to control game play.  Move the mouse to move the paddle. \\  \\ 
+     - **Restart** [[http://scratch.mit.edu/projects/25192935|http://scratch.mit.edu/projects/25192935]] \\   Demonstrates how to make a button to restart the game.  Click on the RESTART button to restart. \\  \\ 
+     - **Menu** [[http://scratch.mit.edu/projects/25192991|http://scratch.mit.edu/projects/25192991]] \\   Demonstrates how to display a menu screen at the beginning of the game.  Click START or DIRECTIONS on the menu screen. \\  \\ 
+     - **Multiplayer** [[http://scratch.mit.edu/projects/25192711|http://scratch.mit.edu/projects/25192711]] \\   Demonstrates how to add another player to the game.  Player 1 uses the arrow keys to navigate Pico through the maze, and player 2 uses the W, A, S, D keys to navigate Nano through the maze. \\  \\ 
+
+Note:
+The backpack is an extremely helpful tool while programming in Scratch.  It can store everything from lines of code, to music files, to sprites, and more.  Try using it to incorporate extensions into your game projects.
+
+
+=====Things to think about when you are done=====
+
+  * What are the different ways of increasing difficulty in a game?
+  * Which extensions did you add to your game project?
+  * Describe your process for including the extensions in your game?
+
+=====Sharing your project in the studio=====
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/1126762|http://scratch.mit.edu/studios/1126762]]
+
+=====Credits=====
+This project is based on materials from the the [[http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf|Creative Computing curriculum]] by Brennan, Balch, and Chung.

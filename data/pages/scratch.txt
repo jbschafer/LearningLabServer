@@ -1,0 +1,124 @@
+====== Programming with Scratch ======
+
+[[http://scratch.mit.edu/|http://scratch.mit.edu/]]
+
+If you have a little bit of experience using Hour of Code or some other basic programming language/environment, we suggest that you really learn about programming by studying Scratch. Even if you have played with Scratch on your own or in school, we suggest that you work through the following materials to build a better foundation for programming.
+
+==== Level 0 Activities - Getting Started with Scratch ====
+
+We suggest you complete the following activities in order. Even if you have already worked with scratch these are good activities to review.
+
+  * [[lev0:tut_scratchintro|Tutorial : Introducing Scratch and Registering for an Account]]
+  * [[lev0:Act_ExploringScratch_s|Activity : Exploring Scratch]]
+  * [[lev0:Act_ScratchSurprise_s|Activity : Scratch Surprise]]
+  * [[lev0:tut_sharinginastudio|Tutorial : How to share a Project in a Studio]]
+  * [[lev0:Act_StepByStep_s|Activity : Step by Step]]
+  * [[lev0:Act_TwelveBlocks_s|Activity : 12 Blocks]]
+ 
+
+==== Level 1 Activities - Learning about the possibilities in Scratch ====
+
+We suggest that you complete the following activities in order. However, for the most part you can do them in any order that you like. To get the most out of this level we strongly suggest you finish each of the activities before completing the Mastery Activities.
+
+  * [[lev1:act_initials_s|Activity : An Initial Assignment (Absolute/Coordinate motion and the pen menu)]]
+  * [[lev1:act_shapes_s|Activity : Getting in Shape (Relational/Directional motion and the pen menu)]]
+  * [[lev1:act_debugitone_s|Activity : Debug It #1 (Practicing debugging)]]
+  * [[lev1:act_buildaband_s|Activity : Build a Band (The sound menu)]]
+  * [[lev1:act_ospc_s|Activity : Orange Square, Purple Circle (The looks menu)]]
+  * [[lev1:act_itsalive_s|Activity : It's Alive (Using Costumes)]]
+  * [[lev1:act_debugittwo_s|Activity : Debug It #2 (More Practice debugging)]]
+ 
+/**   The following has been commented out for the while
+
+These tutorials can be used if you want to learn a little more about the ideas you are learning in the previous activities.
+
+  * Tutorial : Working with the Pen
+  * Tutorial : Creating your own Studio
+  * Tutorial : How to remix a project
+  * Tutorial : Adding Sprites and Costumes
+  * Tutorial : Using the Paint Editor
+  * Tutorial : Using the Sound Tools
+**/ 
+
+Mastery Activities are designed to be demonstrations of the material you have learned in a level. Only after you have mastered the concepts in this level should you attempt to complete the following activities.
+
+  * [[lev1:act_aboutme_s| Mastery Activity : About Me]]
+  * [[lev1:act_musicvideo_s|Mastery Activity : Music Video]]
+ 
+
+==== Level 2 Activities - Telling Stories ====
+
+
+We suggest that you complete the following activities in order. However, for the most part you can do them in any order that you like. To get the most out of this level we strongly suggest you finish each of the activities before completing the Mastery Activities.
+
+  * [[lev2:act_knockknockv1_s|Activity : Knock Knock Joke version 1 (Using timing to coordinate sprites)]]
+  * [[lev2:act_knockknockv2_s|Activity : Knock Knock Joke version 2 (Using broadcasts to coordinate sprites)]]
+  * [[lev2:act_crazyscene_s|Activity : It's a Crazy Scene Man (Exploring the stage a little more)]]
+  * [[lev2:act_debugitthree_s|Activity : Debug It #3]]
+  * [[lev2:act_hpremix_s|Activity : Remixing a scene from Harry Potter]]
+  * A[[lev2:act_otherremix_s|ctivity : Remixing a scene of your choice]]
+ 
+/**   The following has been commented out for the while
+
+
+These tutorials can be used if you want to learn a little more about the ideas you are learning in the previous activities.
+
+  * Tutorial : Creating new broadcast events
+  * Tutorial : How to use broadcast events
+**/
+
+Mastery Activities are designed to be demonstrations of the material you have learned in a level. Only after you have mastered the concepts in this level should you attempt to complete the following activities.
+
+  * [[lev2:act_nurseryrhyme_s|Mastery Activity : Animating a Nursery Rhyme]]
+  * [[lev2:act_sceneit_s|Mastery Activity : Scene It: Animating a Scene from your favorite Book, TV Show or Movie]]
+ 
+
+==== Level 3 Activities - Working with Data ====
+
+We suggest you complete the following activities in order. These build on each other to help you learn a little bit about data and selection statements.  We suggest that you complete each of these activities before attempting the Mastery Activities.  In earlier levels we have walked you through concepts in detail.  From now on we will present a lot of code examples and ask you to explore and ask questions from the mentors to figure things out.
+
+  * [[lev3:act_askIntro_s|Activity : Using Ask to Customize Stories]]
+  * [[lev3:act_selectionIntro_s|Activity : Using selection statements to add in options]]
+  * [[lev3:act_yourTurn1_s|Activity : Your Turn#1]]
+  * [[lev3:act_numberData_s|Activity : Using Numbers as Inputs]]
+  * [[lev3:act_yourTurn2_s|Activity : Your Turn#2]]
+
+Mastery Activities are designed to be demonstrations of the material you have learned in a level. Only after you have mastered the concepts in this level should you attempt to complete the following activities.
+
+  * [[lev3:act_madLibs_s|Mastery Activity : Mad Libs]]
+  * [[lev3:act_cyoa_s|Mastery Activity : Choose Your Own Adventure]]
+
+
+==== Level 4 Activities - Creating Games ====
+
+We suggest that you complete the following activities in order. However, for the most part you can do them in any order that you like. To get the most out of this level we strongly suggest you finish each of the activities before completing the Mastery Activities.
+
+  * [[lev4:act_brainstorm_s|Activity : Dream Game Brainstorm]]
+  * [[lev4:act_gameExploration_s|Activity : Game Exploration]]
+  * [[lev4:act_maze_s|Activity : Creating a Maze Game]]
+  * [[lev4:act_pong_s|Activity : Creating a Pong Game]]
+  * [[lev4:act_scrolling_s|Activity : Creating a Scrolling Game]]
+  * [[lev4:act_score_s|Activity : Using Data to Keep Score]]
+  * [[lev4:act_extensions_s|Activity : Extending your Game]]
+  * [[lev4:act_interactions_s|Activity : Exploring Interaction]]
+  * [[lev4:act_debugitfour_s|Activity : Debug It #4]] 
+
+Mastery Activities are designed to be demonstrations of the material you have learned in a level. Only after you have mastered the concepts in this level should you attempt to complete the following activities.
+
+  * [[lev4:act_dreamgame_s|Mastery Activity : Create Your Dream Game]]
+
+
+==== Level 5 Activities - Beyond the Basics ====
+
+These topics can be studied in any order.  However, you should not attempt these until you have mastered earlier levels.
+
+  * [[lev5:act_knowWantLearn_s|Activity : Know, Want, Learn]]
+  * [[lev5:act_createActivity_s|Activity : Contributing to the Community - Create an Activity]]
+  * [[lev5:act_createDebug_s|Activity : Contributing to the Community - Create a Debug It]]
+  * [[lev5:act_usingLists_s|Activity : Using Lists]]
+  * [[lev5:act_byob_s|Activity : Building your own blocks]]
+  * [[lev5:act_cloning_s|Activity : Cloning]]
+  * [[lev5:act_videoSensing_s|Activity : Video Sensing]]
+  * [[lev5:act_externalHardware_s|Activity : External Hardware]]
+
+ 

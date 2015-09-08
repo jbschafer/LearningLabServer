@@ -1,0 +1,53 @@
+
+======Activity : Scratch Surprise======
+**Ninja Instructions** | [[lev0:Act_ScratchSurprise_m|Mentor Notes]]
+
+=====Introduction=====
+This activity is intended to be one of the first activities you complete when you are new to Scratch. It is meant as a fun way for you explore a little bit about working with Scratch by dragging out and connecting the programming blocks. You will have a lot of freedom to explore the things YOU want to explore.  Don't worry if you don't understand everything that you do, but do your best to try and figure it out. 
+By the time you are done you will have created a program that causes the cat to do something "surprising" when the green flag is pressed.
+
+=====Duration =====
+15-30 minutes
+
+=====Instructions=====
+
+  - Go to the Scratch website:  [[http://scratch.mit.edu|http://scratch.mit.edu]]
+  - Sign into your account. If you do not yet have an account you should complete the [[lev0:Tut_ScratchIntro|Introduction to Scratch tutorial]].
+  - Click on the "Create" tab located at the top left of the browser to start a new project.
+  - If the tips section is visible on the right hand side of the screen you should hide it for now. You do this by clicking on the x in the upper left corner of the tips section\\ {{..:closeTips.PNG}}
+  - Take some time to explore. Try clicking on different parts of the Scratch interface to see what happens.
+  - Play with the different Scratch blocks from several of the different Scratch menus Suggestion, focus on the{{..:motionSubMenu.PNG}}, {{..:looksSubMenu.PNG}}, {{..:soundSubMenu.PNG}}, and {{..:penSubMenu.PNG}} menus for now. These are the ones you are likely to use as you first get started. But feel free to explore others if you like.
+  - Don't forget to that the best way to run your programs is by using the "green flag block" {{..:greenflagBlock.PNG}} from the Control Menu ({{..:controlSubMenu.PNG}})  \\ {{..:firstDanceProgram.PNG}}
+  - When you have a program that you like you should give it a name and save it. To change the name of a program type a name in the textbox located above the stage.\\ {{..:namingProgram.png}}\\ After that you can save it by selecting File -> Save now from the menus.\\ {{..:saveNow.png}}
+ 
+ 
+Most activities we will do in this dojo have a studio gallery where you can share your results with other members of the dojo. [[lev0:Tut_SharingInAStudio|Read this page for instructions on how to share your project in a studio]] and share your project in the studio.  (The studio for this activity is located at [[http://scratch.mit.edu/studios/884064/projects/|http://scratch.mit.edu/studios/884064/projects/]])
+    - Browse through the studio to see what other members of the dojo have done.   Feel free to leave other people a (positive) comment!
+    - Most of our activities will have some reflection questions when you are done. We encourage you to complete these questions.
+
+ 
+
+
+
+=====Things to think about when you are done=====
+
+  *  What did you figure out in this activity?
+  * What do you want to know more about?
+
+
+=====Sharing your project in the studio=====
+This is in the instructions above, but to repeat it  [[lev0:Tut_SharingInAStudio|read this page for instructions on how to share your project in a studio.]]
+The studio for this activity is located at:
+
+  * [[http://scratch.mit.edu/studios/884064/|http://scratch.mit.edu/studios/884064/]]
+
+
+
+
+Most activities we will do in this dojo have a studio gallery where you can share your results with other members of the dojo. [[lev0:Tut_SharingInAStudio|Read this page for instructions on how to share your project in a studio]] and share your project in the studio.  (The studio for this activity is located at [[http://scratch.mit.edu/studios/884064/projects/|http://scratch.mit.edu/studios/884064/projects/]])
+
+=====Credits=====
+This project is based on materials from the the [[http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf|Creative Computing curriculum]] by Brennan, Balch, and Chung.
+
+
+

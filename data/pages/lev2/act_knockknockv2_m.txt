@@ -1,0 +1,29 @@
+
+======Activity : Knock Knock Joke, Version 2======
+[[lev2:Act_KnockKnockV2_s|Ninja Instructions]] |  **Mentor Notes**
+
+=====Purpose=====
+The goals of this activity include:
+
+  * exploring the second of two different strategies for synchronizing interactions between sprites - broadcasting
+  * developing a greater familiarity with the computational concept of events and parallelism
+  * practice reusing and remixing
+
+
+=====Things to watch for=====
+If students are having trouble figuring out how to use the broadcast and when I receive block pair, invite them to explore the code of examples projects in the Boradcast Examples sudio:
+
+  *  [[http://scratch.mit.edu/studios/202853|http://scratch.mit.edu/studios/202853]]
+
+
+=====What to look for when reviewing their work=====
+
+  * Did the student modify the existing code as instructed?
+  * Can students explain the concepts of broadcast and "when I receive"
+
+
+
+
+
+
+

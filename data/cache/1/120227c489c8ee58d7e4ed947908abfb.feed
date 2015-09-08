@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/feed.php">
+        <title>Cedar Valley lev3</title>
+        <description></description>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <image rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico" />
+       <dc:date>2015-08-07T01:18:25-05:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_askintro_s&amp;rev=1426018493&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_cyoa_s&amp;rev=1426018604&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_madlibs_s&amp;rev=1435437740&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_numberdata_s&amp;rev=1426018551&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_selectionintro_s&amp;rev=1426018511&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_yourturn1_s&amp;rev=1426018532&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_yourturn2_s&amp;rev=1426018571&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:lengthsolution&amp;rev=1426013446&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico">
+        <title>Cedar Valley</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/</link>
+        <url>http://www.cs.uni.edu/~schafer/outreach/dojo/lib/tpl/20cones/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_askintro_s&amp;rev=1426018493&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-10T15:14:53-05:00</dc:date>
+        <title>lev3:act_askintro_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_askintro_s&amp;rev=1426018493&amp;do=diff</link>
+        <description>Activity : Using Ask to Gather Data
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+In the last unit you were using Scratch to write and tell stories.  In this activity we will learn how to add on to stories to make interactive stories by using the Ask block and the answer peg.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_cyoa_s&amp;rev=1426018604&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-10T15:16:44-05:00</dc:date>
+        <title>lev3:act_cyoa_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_cyoa_s&amp;rev=1426018604&amp;do=diff</link>
+        <description>Mastery Activity : Choose Your Own Adventure
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+In the activities for this level you looked at several features:
+
+	*  Using the “ask” block and “answer” peg under the Sensing menu to begin interaction with a human user</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_madlibs_s&amp;rev=1435437740&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-06-27T15:42:20-05:00</dc:date>
+        <title>lev3:act_madlibs_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_madlibs_s&amp;rev=1435437740&amp;do=diff</link>
+        <description>Mastery Activity : Mad Libs
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+In the activities for this level you looked at several features:
+
+	*  Using the “ask” block and “answer” peg under the Sensing menu to begin interaction with a human user
+	*  Using the creation of variables under Data menu to store data long term</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_numberdata_s&amp;rev=1426018551&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-10T15:15:51-05:00</dc:date>
+        <title>lev3:act_numberdata_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_numberdata_s&amp;rev=1426018551&amp;do=diff</link>
+        <description>Activity : Using Numbers as Data
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+In the last activity you used the Ask block to allow the user to enter some information you used in your story.  But all of the data that we worked with was textual data.  In this activity we are going to look at some fun ways to use number data.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_selectionintro_s&amp;rev=1426018511&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-10T15:15:11-05:00</dc:date>
+        <title>lev3:act_selectionintro_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_selectionintro_s&amp;rev=1426018511&amp;do=diff</link>
+        <description>Activity : Using Selection Statements to Allow for Choices
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+In the last activity you used the Ask block to allow the user to enter some information you used in your story.  
+
+Open up your Jack and Jill story that you created in</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_yourturn1_s&amp;rev=1426018532&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-10T15:15:32-05:00</dc:date>
+        <title>lev3:act_yourturn1_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_yourturn1_s&amp;rev=1426018532&amp;do=diff</link>
+        <description>Activity : Your Turn, #1
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+At the end of each of the last two activities we asked you to think about things that you could do to make the program even more interactive and engaging.  In this activity you will add in a few of those ideas.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_yourturn2_s&amp;rev=1426018571&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-10T15:16:11-05:00</dc:date>
+        <title>lev3:act_yourturn2_s</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:act_yourturn2_s&amp;rev=1426018571&amp;do=diff</link>
+        <description>Activity : Your Turn, #2
+
+Ninja Instructions | Mentor Notes
+
+Introduction
+
+In the last activity we looked at how you can use numerical data.  In this activity we want you to build a program like the ones we created in the last activity but you have the freedom to explore it any way you want.</description>
+    </item>
+    <item rdf:about="http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:lengthsolution&amp;rev=1426013446&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-10T13:50:46-05:00</dc:date>
+        <title>lev3:lengthsolution</title>
+        <link>http://www.cs.uni.edu/~schafer/outreach/dojo/doku.php?id=lev3:lengthsolution&amp;rev=1426013446&amp;do=diff</link>
+        <description>Your solution may look different from this.
+
+
+
+Return to activity.</description>
+    </item>
+</rdf:RDF>
